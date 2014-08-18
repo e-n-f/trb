@@ -1355,7 +1355,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,37.268952,-80.007359,/Aerial Way Dr SW
 684,37.273615,-79.944270,Shenandoah Ave NW/2nd St
 736,37.312956,-79.957622,Eden Dr NW/Edinburgh Dr NW
-160,37.268755,-79.925427,Narrow,poorly-Maintained Aly/Highland Ave SE
+160,37.268755,-79.925427,Narrowpoorly-Maintained Aly/Highland Ave SE
 185,37.218391,-79.962826,Summit Way
 246,37.273921,-79.967715,/16th St SW
 1746,37.252032,-79.943259,/Wiley Dr SW
@@ -4084,7 +4084,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 579,37.287669,-79.940991,Dunbar St NW/
 216,37.261203,-79.927983,Morrill Ave SE/7th St SE
 472,37.279071,-79.952070,8th St NW/Fairfax Ave NW
-216,37.267278,-79.927414,Narrow,poorly-Maintained Aly/Highland Ave SE
+216,37.267278,-79.927414,Narrowpoorly-Maintained Aly/Highland Ave SE
 160,37.228786,-79.968379,Griffin Rd SW
 579,37.293084,-79.994413,35th St NW/Melrose Ave NW
 246,37.287284,-79.912363,Holland Ave NE/Purcell Ave NE
@@ -4993,7 +4993,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,37.300857,-79.930221,/Elizabeth Rd NE
 943,37.271056,-79.945526,3rd St SW
 246,37.299214,-79.999481,/Van Buren St NW
-246,37.277285,-79.917206,Wise Ave SE/19th St, SE
+246,37.277285,-79.917206,Wise Ave SE/19th St SE
 305,37.270767,-79.960733,Campbell Ave SW/11th St SW
 390,37.290464,-79.976707,/New York Ave NW
 160,37.292675,-79.989267,Olivet St NW/Viewmont St NW
@@ -5713,7 +5713,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,37.248161,-79.936553,Prospect Rd SE
 185,37.288541,-80.017017,Rowe Ridge Rd NW
 526,37.251306,-79.961927,/Colonial Ave SW
-216,37.276809,-79.917120,19th St, SE/Unpaved Aly/Fallon Park Entrance
+216,37.276809,-79.917120,19th St SE/Unpaved Aly/Fallon Park Entrance
 185,37.275038,-80.000989,Westside Blvd NW/Miller St
 305,37.277900,-79.923788,Hollins Rd NE
 362,37.256785,-79.952240,I- 581

@@ -9059,7 +9059,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 390,40.205740,-74.955803,Garrison Ct
 276,40.148871,-74.831131,Glenwood Ln/Greenbrook Dr
 276,40.438244,-75.345261,S 8th St/
-276,40.379499,-75.283554,N Fifth St/Poplar St (Unmarked, Confirmed With Resident)
+276,40.379499,-75.283554,N Fifth St/Poplar St (Unmarked Confirmed With Resident)
 216,40.227256,-74.870047,Silo Rd/Combine Ln
 246,40.138799,-74.984843,Lang Ave/Rail Ave
 362,40.242236,-74.836103,S Edgewater Ave
@@ -11410,7 +11410,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,40.434806,-75.431151,Spinnerstown Rd/Brinkman Rd
 160,40.132126,-74.892137,Zimmerman Ln
 160,40.226548,-74.867783,Yardley Langhorne Rd/Bennington Rd
-276,40.379294,-75.285077,Brown St (Unmarked, Confirmed With Resident)
+276,40.379294,-75.285077,Brown St (Unmarked Confirmed With Resident)
 185,40.094087,-74.921038,Gloucester Ct/Clusters Turn
 216,40.281038,-75.209882,Wilson Ave/Lantern Ln
 276,40.338510,-75.328716,Commerce Dr/Revenue Dr
@@ -12086,7 +12086,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,40.143999,-74.976114,Spruce Ave/Indian Spring Ave
 276,40.277806,-75.185788,Hickory Ridge Dr
 160,40.237923,-74.853119,Yale Dr
-160,40.381198,-75.288331,Brown St (Unmarked, Confirmed With Resident)/N 7th St
+160,40.381198,-75.288331,Brown St (Unmarked Confirmed With Resident)/N 7th St
 160,40.206482,-74.967003,Twining Village Manor/Old Jordan Rd
 185,40.151263,-74.993288,Pleasant Dr
 160,40.175916,-74.792349,Garner Dr
@@ -12275,7 +12275,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,40.149629,-74.917860,Woodward Ave/Neshaminy St
 216,40.268701,-75.202550,Blackburn Dr/Blackburn Ct/Upper State Rd
 305,40.202432,-74.866008,Yellow Springs Ct
-160,40.382419,-75.286534,Girard Ave (Unmarked, Confirmed With Resident)
+160,40.382419,-75.286534,Girard Ave (Unmarked Confirmed With Resident)
 579,40.105068,-74.857086,Mansion St/Inlet St
 305,40.168073,-74.881134,Hoe Rd
 185,40.235458,-74.868802,Plowshare Rd
@@ -18437,7 +18437,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,40.292557,-75.095699,Bridle Dr
 684,40.165896,-74.891138,Hope Rd/Hollow Rd
 246,40.437951,-75.426046,I- 476
-334,40.378833,-75.284569,Brown St (Unmarked, Confirmed With Resident)/N Fifth St/Hunters Run
+334,40.378833,-75.284569,Brown St (Unmarked Confirmed With Resident)/N Fifth St/Hunters Run
 334,40.215866,-74.860412,/Stony Hill Rd
 160,40.202346,-75.084433,Louis Dr/Constance Dr
 445,40.142896,-74.828877,Stonybrook Dr/S Ln
@@ -18714,7 +18714,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,40.290385,-74.980869,Ashley Ct
 185,40.188912,-74.836945,Glouster Rd/Edgemont Rd
 160,40.156506,-75.001832,Penus Gate Cir
-305,40.379604,-75.283695,Poplar St (Unmarked, Confirmed With Resident)
+305,40.379604,-75.283695,Poplar St (Unmarked Confirmed With Resident)
 185,40.240468,-74.885005,Colts Ln/Ascot Ct
 216,40.268303,-74.885702,Old Barn Ct/Valley View Dr
 160,40.183972,-74.954067,Braintree Cmn/Watergate Dr
@@ -18971,7 +18971,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 418,40.101944,-74.855856,Beaver St/Buckley St
 1433,40.306569,-75.137597,Lafayette St/Logan St
 160,40.242117,-75.106350,Bentley Dr/Greenleaf Dr N
-160,40.381028,-75.288086,Brown St (Unmarked, Confirmed With Resident)
+160,40.381028,-75.288086,Brown St (Unmarked Confirmed With Resident)
 216,40.201055,-75.078091,Swan Way
 185,40.187755,-74.840060,Wilson Dr/Cardiff Rd
 605,40.190987,-74.828882,Lincoln Hwy/Oak Lane Ave

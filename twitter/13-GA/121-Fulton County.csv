@@ -1494,7 +1494,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,34.054249,-84.143260,Crofton Overlook Ct
 185,33.792031,-84.471449,Tower Hill St
 216,33.804959,-84.445293,Old Marietta Rd NW/Marietta Rd NW
-390,33.714168,-84.395215,/Arthur Langford Jr Pl, SW
+390,33.714168,-84.395215,/Arthur Langford Jr Pl SW
 390,33.609914,-84.477371,Leicester Ln SW
 1381,33.746796,-84.349202,Aus Hwy 23
 246,33.713745,-84.587216,Kendall Pk Ln SW
@@ -2208,7 +2208,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 334,33.793098,-84.367110,Hillpine Dr NE/Monroe Dr NE
 160,34.002972,-84.285288,Powder Ridge Rd
 216,33.651126,-84.529726,Otter Dam Ct/Kingfisher Dr
-605,33.713035,-84.397742,Lincoln St SW/Arthur Langford Jr Pl, SW/Arthur Langford Pl SW
+605,33.713035,-84.397742,Lincoln St SW/Arthur Langford Jr Pl SW/Arthur Langford Pl SW
 334,34.057837,-84.204965,Abbotts Bridge Rd/Westbury Ln
 185,33.861772,-84.358923,Stovall Blvd NE
 216,33.905835,-84.399106,New Wellington Close/Errol Pl NW
@@ -2396,7 +2396,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,33.653396,-84.452750,Harvard Ave/Victoria St
 216,33.703808,-84.443995,Phillips Ct/Rosemary Ln
 362,33.576069,-84.511149,Carriage Ln/Carriage Ct
-418,33.830751,-84.357867,Pine Heights Dr/Pine Heights Dr, NE
+418,33.830751,-84.357867,Pine Heights Dr/Pine Heights Dr NE
 1381,33.698650,-84.404375,I- 75
 160,33.770190,-84.461198,Baker Rd NW/Gary Rd NW
 185,33.630312,-84.544998,Larkspur Ln/Antelope Cv
@@ -5032,7 +5032,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,34.058674,-84.190491,Bentham Ct
 1982,33.796587,-84.368557,Sherwood Rd NE/Monroe Dr NE
 216,33.544483,-84.536812,Mumsford Ct
-5552,33.771288,-84.392056,Centennial Olympic Park Dr, NW/Techwood Dr NW/North Ave NW
+5552,33.771288,-84.392056,Centennial Olympic Park Dr NW/Techwood Dr NW/North Ave NW
 362,33.672791,-84.389716,/Mount Zion Rd SW
 160,34.043577,-84.363923,Bloomfield Ct
 631,33.571460,-84.572041,NW Broad St/Estes St
@@ -5756,7 +5756,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,33.683463,-84.599269,Waterford St/Stonewall Tell Rd
 160,33.562638,-84.526036,Boulder Pass
 160,33.905769,-84.389679,Wembley Ln NE
-390,33.712777,-84.397748,Lincoln St SW/Arthur Langford Jr Pl, SW
+390,33.712777,-84.397748,Lincoln St SW/Arthur Langford Jr Pl SW
 305,33.766811,-84.440959,Nekoma St NW/W Lake Ave NW
 1046,33.762071,-84.349442,Austin Ave NE
 276,33.730954,-84.557423,Boulder Ridge Dr/Gwaltney Dr
@@ -5765,7 +5765,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,33.547293,-84.538481,Akbash Way
 160,33.538843,-84.601363,Creekwood Rd
 160,33.599755,-84.580089,Deep Creek Pl/Deep Creek Dr
-3447,33.769847,-84.392141,Centennial Way/Centennial Olympic Park Dr, NW
+3447,33.769847,-84.392141,Centennial Way/Centennial Olympic Park Dr NW
 216,34.073143,-84.280211,/Cape Cir
 246,33.560681,-84.584027,Greene St SE/Word St
 865,33.547328,-84.572581,Radford Loop/Rutgers Cir
@@ -5923,7 +5923,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.056584,-84.151695,Clangor Ct
 684,33.984259,-84.275637,Greenhouse Pkwy
 994,34.090279,-84.275192,Nortel Pkwy/Windward Pkwy
-362,33.711757,-84.397771,Thornton St SW/Arthur Langford Jr Pl, SW
+362,33.711757,-84.397771,Thornton St SW/Arthur Langford Jr Pl SW
 216,33.715921,-84.383682,Jonesboro Rd SE/Thayer Ave SE
 160,33.971133,-84.343163,Spalding Springs Ln
 334,33.752516,-84.356951,Wylie St SE
@@ -5990,7 +5990,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 658,33.817302,-84.421961,I- 75
 2977,33.837038,-84.377829,Pharr Rd NE/N Fulton Dr NE
 160,33.792568,-84.361813,Hillpine Ln/Hillpine Dr NE
-3087,33.749168,-84.417529,Joseph E Lowery Blvd/Joseph E Lowery Blvd, SW/Fair St SW
+3087,33.749168,-84.417529,Joseph E Lowery Blvd/Joseph E Lowery Blvd SW/Fair St SW
 246,33.590498,-84.460707,Knighton Cir SW
 362,33.533917,-84.600025,I- 85
 1097,33.750083,-84.398519,Peters St SW/Garnett St SW
@@ -8919,7 +8919,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,33.798820,-84.473515,The Park at Scotts Xing
 160,33.619148,-84.513032,Delano Rd
 160,33.664893,-84.560711,Lexington Pt/Lexmark Cir
-334,33.712386,-84.397757,Arthur Langford Jr Pl, SW/Booker St SW
+334,33.712386,-84.397757,Arthur Langford Jr Pl SW/Booker St SW
 246,34.128880,-84.319473,Redd Rd/Freemanville Rd
 160,34.012863,-84.272900,Abbottswell Dr
 865,33.818433,-84.421854,Tennyson Dr
@@ -10792,7 +10792,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,33.867257,-84.373108,Herrington Dr NE/Wieuca Rd NE
 185,33.637943,-84.489139,Sunset Ln/Sun Valley Blvd
 246,33.827255,-84.373933,Arlene Way NE/Birchwood Dr NE
-418,33.764303,-84.435849,Talia Wood Cir, NW/Kennedy Wood Way
+418,33.764303,-84.435849,Talia Wood Cir NW/Kennedy Wood Way
 216,33.813508,-84.414720,Howell Mill Rd/Kipling Dr NW
 246,33.685514,-84.382350,Wendell Dr SE/Linda Ln SE
 185,33.661586,-84.435963,Cambridge Ave/Monroe St
@@ -12738,7 +12738,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 445,33.947921,-84.370739,Roswell Rd/Carlisle Ct NE
 362,33.529263,-84.560403,Milam Loop/Gladden Rd
 390,34.020449,-84.258481,Preston Oaks Dr/W Preston Ct
-334,33.764328,-84.435198,Talia Wood Cir, NW/Kennedy Wood Way
+334,33.764328,-84.435198,Talia Wood Cir NW/Kennedy Wood Way
 334,33.562855,-84.622931,Cherry Branch Cir/Cherry Branch Ln
 276,33.786916,-84.433602,Perry Blvd NW/Rockdale St NW
 160,33.670134,-84.436794,Vivian Sykes/Central Ave
@@ -13122,7 +13122,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 362,33.727458,-84.363217,Edie Ave SE/E Confederate Ave SE/Confederate Ave SE
 185,34.044996,-84.344749,Applewood Dr/Pippin Way
 736,34.003804,-84.335951,Roberts Dr/Turner McDonald Pkwy
-185,33.692303,-84.591084,Old Campbellton Road, SW/Campbellton Rd
+185,33.692303,-84.591084,Old Campbellton Road SW/Campbellton Rd
 160,33.916017,-84.435111,Winterthur Way NW/Winterthur Dr NW
 185,33.732599,-84.376573,Grant St SE/Grant Park Pl SE
 185,33.898682,-84.365505,Wyth Way NE
@@ -14337,7 +14337,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.086126,-84.391422,Brookfield Pl
 246,33.635010,-84.493229,Matador Ct SW
 418,33.686014,-84.428591,Spencer Ave/Woodland Cir
-2194,33.768919,-84.392122,Centennia Olympic Park Dr, NW/Centennial Olympic Park Dr, NW/Merritts Ave NW
+2194,33.768919,-84.392122,Centennia Olympic Park Dr NW/Centennial Olympic Park Dr NW/Merritts Ave NW
 499,33.788003,-84.471852,Etheridge Dr NW/Etheridge Court Apartments
 1097,33.772313,-84.375871,Ponce de Leon Ave NE/Durant Pl NE
 390,34.037486,-84.323901,/Huntington Dr
@@ -15025,7 +15025,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 1097,33.810435,-84.388819,Brookwood Valley Cir NE
 160,34.138889,-84.345456,Arcaro Dr
 185,34.104947,-84.291967,Hopewell Rd/Hopewell Close Dr
-552,33.830822,-84.359145,Pine Heights Drive, NE
+552,33.830822,-84.359145,Pine Heights Drive NE
 216,33.700440,-84.352092,Isa Dr SE/Akron Dr SE
 216,34.045563,-84.347353,Russit Way/Applewood Dr
 1200,33.746821,-84.375882,Memorial Dr SE/George St SE
@@ -15892,7 +15892,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.066610,-84.252014,Cotton Creek Dr
 788,33.827458,-84.355241,Canterbury Rd NE
 552,33.728143,-84.407972,Arthur St SW/Metropolitan Pkwy SW
-1226,33.829969,-84.356403,Pine Heights Dr, NE
+1226,33.829969,-84.356403,Pine Heights Dr NE
 305,33.722540,-84.448330,Avon Ave SW/Cahaba Dr SW
 362,34.026983,-84.336751,Warsaw Rd
 917,33.670102,-84.442797,Willingham Dr/Main St
@@ -16571,7 +16571,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,33.792862,-84.420213,English St NW
 362,33.971856,-84.369800,Harbor Pointe Pkwy
 160,34.133108,-84.262333,Eighteenth Fairway
-445,33.830593,-84.358284,Pine Heights Dr/Pine Heights Drive, NE
+445,33.830593,-84.358284,Pine Heights Dr/Pine Heights Drive NE
 276,33.970635,-84.364778,Spring Creek Ln
 334,34.003880,-84.337562,Lexington Pl
 276,33.687528,-84.437901,Milledge St/Bryan Ave
@@ -17413,7 +17413,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 710,33.789285,-84.493608,Bolton Rd/Nash Rd NW
 276,34.054029,-84.137781,Henley Pl
 160,33.656096,-84.354050,Pine Forest Dr SE/Hendon Rd SE
-276,33.714194,-84.396478,Arthur Langford Jr Pl, SW/Arthur Langford Pl SW/Bowen Cir SW
+276,33.714194,-84.396478,Arthur Langford Jr Pl SW/Arthur Langford Pl SW/Bowen Cir SW
 216,33.683917,-84.446394,Lester St/W Ware Ave
 1511,34.067895,-84.168152,Medlock Bridge Rd/McGinnis Ferry Rd/Sargot Ferry Rd
 472,33.763687,-84.443779,Richardson Rd NW/Joseph E Boone St/Joseph E Boone Blvd
@@ -17505,7 +17505,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.150376,-84.272990,Watboro Hill Dr
 276,33.581464,-84.580075,Fireside Way/Hearth Way
 390,33.734341,-84.380971,Bill Lucas Dr SW/Connally St SE
-1071,33.826848,-84.363164,/Summit North Drive, NE
+1071,33.826848,-84.363164,/Summit North Drive NE
 216,34.036529,-84.207752,Saint Simonds Ct
 552,33.739444,-84.382907,Orchard Ct/Crumley St SE
 246,34.074800,-84.283216,Milford Ln
@@ -23194,7 +23194,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,33.996763,-84.281711,Hall Manor
 1511,33.744258,-84.365253,Cameron St SE/Bryan St SE
 160,33.601797,-84.566477,Lake Ct/Lake Rd
-499,33.714133,-84.393469,Pryor Rd/Arthur Langford Jr Pl, SW
+499,33.714133,-84.393469,Pryor Rd/Arthur Langford Jr Pl SW
 216,33.612385,-84.463115,Scofield Rd/Orly Ter
 185,34.051043,-84.189008,Abbotts Run Trl/Cooper Farm Way
 334,33.680341,-84.402503,7th St SW/3rd Ave SW
@@ -24581,7 +24581,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 390,33.584181,-84.540916,Flat Shoals Rd/Shannon Pkwy
 160,34.010466,-84.349964,Indian Springs Dr
 160,33.661175,-84.483158,Scenic Dr/Scenic Ter
-1589,33.767806,-84.391893,Centennia Olympic Park Dr, NW/Centennial Olympic Park Dr NW/Pine St NW
+1589,33.767806,-84.391893,Centennia Olympic Park Dr NW/Centennial Olympic Park Dr NW/Pine St NW
 390,33.954103,-84.354948,Village Creek Trce
 160,33.904510,-84.403172,Idlewood Trl NW
 185,34.068252,-84.205294,Pinion Cir
@@ -25645,7 +25645,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,33.652246,-84.457089,Napoleon St/Columbia Ave
 8171,33.759214,-84.379442,/I- 75
 418,34.027664,-84.353233,/Liberty Ln
-1278,33.831200,-84.357261,Pine Heights Dr, NE
+1278,33.831200,-84.357261,Pine Heights Dr NE
 185,33.648520,-84.375950,Archcrest Dr SE
 160,33.722273,-84.488026,Lynhurst Dr SW/Lynway Ln SW
 276,33.677116,-84.382583,Fairlane Dr SE/Altaview Dr SE
@@ -27234,7 +27234,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,34.043372,-84.235527,Pinewalk Forest Ct
 305,33.862500,-84.380251,Laurel Forest Cir NE/Roswell Rd
 445,33.741322,-84.380500,Sydney St SE/Kelly St SE
-499,33.830696,-84.358616,Pine Heights Drive, NE
+499,33.830696,-84.358616,Pine Heights Drive NE
 4209,33.768130,-84.388919,Spring St NW/Baltimore Pl NW
 246,34.046661,-84.331419,Timbercreek Cir/Timbercreek Pkwy
 1772,33.749804,-84.381067,Moore St SE/Decatur St SE
@@ -27901,7 +27901,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 736,33.751963,-84.364281,Wylie St SE/Short St SE
 917,33.674401,-84.445102,W Hamilton Ave/Church St
 552,33.700740,-84.406986,Brookside Park Apts
-362,33.764618,-84.436230,Talia Wood Cir, NW/Woodlawn Ave NW
+362,33.764618,-84.436230,Talia Wood Cir NW/Woodlawn Ave NW
 185,33.871477,-84.370629,Potters Walk
 445,34.089490,-84.252519,Edison Dr/Windward Pkwy
 160,34.097844,-84.293900,Atkinson Dr
@@ -28105,7 +28105,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,34.082485,-84.284255,Monroe Way
 526,34.038233,-84.254455,Birkdale Ct
 334,33.713294,-84.561418,Stone Arbor Ct
-1956,33.826093,-84.363163,Summit North Drive, NE
+1956,33.826093,-84.363163,Summit North Drive NE
 246,34.040409,-84.246726,Pinchon Pl
 216,34.079167,-84.380560,King Rd
 185,33.779172,-84.358690,Barnett St NE/Highland Vw NE
@@ -28176,7 +28176,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,33.757220,-84.518819,Ferry Ln SW/Majestic Dr SW
 658,33.623110,-84.488090,I- 285
 160,34.046498,-84.254085,Sweetbay Cir/Enclave Ln
-3587,33.749069,-84.417530,Joseph E Lowery Blvd, SW/Fair St SW/Joseph E Lowery Blvd SW
+3587,33.749069,-84.417530,Joseph E Lowery Blvd SW/Fair St SW/Joseph E Lowery Blvd SW
 2977,33.808038,-84.365923,Piedmont Rd NE/Piedmont Cir NE
 246,34.067115,-84.198883,Ashwind Trce/Windview Pl
 160,34.054707,-84.367271,Caladium Ln
@@ -29080,7 +29080,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 526,33.663777,-84.417494,/Central Ave
 160,34.025490,-84.257168,Avebury Ct
 216,33.907899,-84.370228,Kayron Dr NE/Sherrell Dr NE
-334,33.711124,-84.397786,Upshaw St SW/Arthur Langford Jr Pl, SW
+334,33.711124,-84.397786,Upshaw St SW/Arthur Langford Jr Pl SW
 185,33.511393,-84.654284,Collinsworth Rd
 185,33.990273,-84.348250,Hope Mews Ct
 418,33.827987,-84.348794,Rivers Edge Dr/Rivers Edge Trl
@@ -31285,7 +31285,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 334,34.088504,-84.397515,Huntwood Way/Huntington Ct/Burlingame Dr
 526,33.818835,-84.426103,Adrian Pl NW/Acacia St NW
 1772,33.755639,-84.398206,Elliott St/Elliott St NW
-445,33.710492,-84.397800,Arthur Langford Jr Pl, SW/Arthur Langford Pl SW/Taft St SW
+445,33.710492,-84.397800,Arthur Langford Jr Pl SW/Arthur Langford Pl SW/Taft St SW
 813,33.771906,-84.429124,Anthony St NW/Bankhead Hwy NW
 968,33.756751,-84.366669,Auburn Ave NE
 160,33.679288,-84.453386,Kimmeridge Dr/Thompson Ave

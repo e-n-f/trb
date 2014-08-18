@@ -23,7 +23,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,18.333031,-66.457955,Pr- 145
 160,18.335133,-66.466981,Cll Jaguas/Cll Ext Munoz Rivera
 276,18.338364,-66.469359,Cll Cementerio
-246,18.307265,-66.479985,,calle Ucar/Calla Flambonan
+246,18.307265,-66.479985,calle Ucar/Calla Flambonan
 160,18.331765,-66.462604,Pr- 145
 390,18.333985,-66.468553,Cll Palmer Cabalines/Cll Guillermo Davila
 185,18.345569,-66.471478,Pr- 6685/
@@ -94,7 +94,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,18.336586,-66.476076,Pr- 649
 160,18.309130,-66.520964,Pr- 146
 185,18.359983,-66.468512,/Pr- 633
-185,18.307021,-66.479194,,calle Ucar
+185,18.307021,-66.479194,calle Ucar
 160,18.275826,-66.479630,/Pr- 615
 216,18.346021,-66.466980,/Expreso de Ciales A Manati
 160,18.319066,-66.471051,Cll A/
@@ -112,7 +112,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,18.361428,-66.491995,/Cam Los Torres
 160,18.339472,-66.469171,Cll Santo Domingo
 160,18.336719,-66.476248,/Pr- 649
-185,18.316584,-66.460602,Peligrosa, No Bajes en Carro
+185,18.316584,-66.460602,Peligrosa No Bajes en Carro
 362,18.333623,-66.470415,/Reparto Cabiya
 185,18.360409,-66.467980,/Pr- 633
 216,18.359977,-66.469365,Pr- 633
@@ -148,7 +148,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,18.352034,-66.475896,/Pr- 6685
 160,18.360507,-66.467383,Calle E
 216,18.309109,-66.479579,Cll Robles
-185,18.316716,-66.460912,/Peligrosa, No Bajes en Carro
+185,18.316716,-66.460912,/Peligrosa No Bajes en Carro
 160,18.358796,-66.491006,/Hector Otero
 160,18.301831,-66.483332,/Pr- 149
 276,18.340750,-66.466944,/Pr- 145

@@ -78,7 +78,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,40.530693,-111.497509,Turnberry Woods Dr/Lime Canyon Rd
 305,40.628594,-111.438837,W Overlook Dr/W Hailstone Dr/N Mountain Lakes Way
 160,40.543337,-111.468248,Matterhorn Cir
-160,40.483175,-111.411141,Summit Drive,
+160,40.483175,-111.411141,Summit Drive
 160,40.652425,-111.456289,Hwy 40
 160,40.492162,-111.344917,S 4370 E
 160,40.533890,-111.472120,N Chancey Ln
@@ -95,7 +95,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,40.627161,-111.439702,/N Jordanelle Blvd
 185,40.535157,-111.471732,E Chancey Ln/N Chancey Ln/N Neuchatelle Dr
 185,40.502680,-111.397635,S Millers Mile Rd
-160,40.481671,-111.411471,Summit Drive,
+160,40.481671,-111.411471,Summit Drive
 362,40.512060,-111.393728,N Waterside Ct/N Waterside Rd
 160,40.483078,-111.412582,E Airport Rd
 160,40.680917,-111.431411,N Council Fire Trl
@@ -417,7 +417,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,40.531107,-111.500236,Lime Canyon Rd
 160,40.520427,-111.410993,N Hwy 40
 472,40.525821,-111.493369,Swiss Oaks Dr/Grindelwald Ln
-185,40.483207,-111.410395,Summit Drive,/Baxter Dr
+185,40.483207,-111.410395,Summit Drive/Baxter Dr
 160,40.635477,-111.468560,N Summit View Dr/Emergency Rd
 160,40.532211,-111.471300,N Valais Pkwy
 185,40.526176,-111.474104,75 West St
@@ -729,7 +729,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,40.492843,-111.347651,E 1200 S/S 4200 E
 305,40.514929,-111.414692,Clover Cir
 185,40.529148,-111.487507,750 West St
-160,40.482320,-111.411447,Summit Drive,/Acord Way
+160,40.482320,-111.411447,Summit Drive/Acord Way
 160,40.411412,-111.510857,S Losee Ln//US Hwy 189
 185,40.504975,-111.408227,E 200 S/S 300 E
 185,40.503371,-111.397417,S Flour Mill Rd/E Grist Mill Rd

@@ -92,7 +92,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,35.191820,-87.029333,/E Cemetery St/S Rhodes St
 968,35.036032,-86.878602,Rest Area
 160,34.995212,-86.838055,Coral St/Highland Dr
-658,35.305245,-86.883492,Lewisburg Hwy, US Hwy 31A
+658,35.305245,-86.883492,Lewisburg Hwy US Hwy 31A
 185,35.198268,-87.020027,E Jefferson St/Cypress St
 362,35.050380,-86.880272,I 65
 276,35.229721,-87.040978,Garland Dr/Columbia Hwy
@@ -139,7 +139,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,35.195082,-86.895655,US Hwy 64
 362,35.181239,-87.050390,Cooke Ln/Minor Hill Hwy/Kathleen Dr
 418,34.992055,-86.846775,Main St
-788,35.304382,-86.884335,Lewisburg Hwy, US Hwy 31/Lewisburg Hwy, US Hwy 31A
+788,35.304382,-86.884335,Lewisburg Hwy US Hwy 31/Lewisburg Hwy US Hwy 31A
 185,35.181642,-86.933391,Pisgah Rd/US Hwy 64
 160,35.186217,-87.042546,Paulk Ln
 276,35.130228,-86.877322,I 65
@@ -574,7 +574,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,35.183068,-86.923835,US Hwy 64
 246,35.002186,-86.853761,Quail Trl
 216,35.249200,-87.043224,Columbia Hwy/US Hwy 31
-216,35.298778,-86.894807,/Lewisburg Hwy, US Hwy 31A
+216,35.298778,-86.894807,/Lewisburg Hwy US Hwy 31A
 362,35.207569,-87.027328,N 1st St/Gordon St
 305,35.207273,-87.062430,Bennett Dr/Braly Ln
 160,35.193739,-86.891580,Pisgah Ridge Rd
@@ -614,7 +614,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,35.206408,-87.025208,Childers St/E Grigsby St
 160,35.188458,-86.837086,US Hwy 64
 216,35.032778,-86.878643,Rest Area/I 65
-160,35.298503,-86.895232,/Lewisburg Hwy, US Hwy 31A
+160,35.298503,-86.895232,/Lewisburg Hwy US Hwy 31A
 445,35.201719,-87.052386,W College St/Sunset Dr
 499,35.186858,-87.048724,Brindley Dr/Minor Hill Hwy
 160,35.237029,-87.027397,Bledsoe Rd
@@ -637,7 +637,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,35.252156,-86.882298,Young Hollow Rd/Diana Ridge Rd/Warren Rd
 160,35.182877,-87.050120,Wilson Ln/Minor Hill Hwy
 216,35.199946,-87.011723,Glendale Cir/Orchard Ln/Glendale Dr
-499,35.303951,-86.884830,/Lewisburg Hwy, US Hwy 31A
+499,35.303951,-86.884830,/Lewisburg Hwy US Hwy 31A
 160,35.024681,-86.994002,Veto Rd
 160,35.210999,-87.070381,Lynne Rd/Linda Rd
 305,35.197901,-86.870362,/I- 65
@@ -654,8 +654,8 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,35.116772,-86.969781,Polly Rd/Elkton Pike
 362,35.203028,-87.045951,Terrace Dr
 185,35.383447,-86.931804,Hospital Hollow Rd
-216,35.297218,-86.896635,/Lewisburg Hwy/Lewisburg Hwy, US Hwy 31A
-813,35.304465,-86.884241,Lewisburg Hwy, US Hwy 31A
+216,35.297218,-86.896635,/Lewisburg Hwy/Lewisburg Hwy US Hwy 31A
+813,35.304465,-86.884241,Lewisburg Hwy US Hwy 31A
 246,35.202869,-87.044568,Tanglewood Dr
 994,35.189414,-87.027038,/Sheila Frost Dr
 390,35.209297,-87.025202,Mitchell St
@@ -752,7 +752,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 684,35.202985,-87.058241,/W College St
 445,35.189098,-87.014952,/Magazine Rd
 276,35.189771,-87.048462,Freda St/Garden Meadows Dr
-216,35.297440,-86.896449,/Lewisburg Hwy/Lewisburg Hwy, US Hwy 31A
+216,35.297440,-86.896449,/Lewisburg Hwy/Lewisburg Hwy US Hwy 31A
 160,35.188362,-86.909889,Oliver Branch Rd
 334,35.005934,-86.879265,I- 65
 185,35.197590,-87.030475,Flower St
@@ -803,7 +803,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,35.378279,-87.002619,Willow St/Higdon St/
 390,35.204027,-87.062913,US Hwy 64 Byp
 160,35.228915,-87.040548,Columbia Hwy/Mountain View Dr
-160,35.299999,-86.892298,/Lewisburg Hwy, US Hwy 31A
+160,35.299999,-86.892298,/Lewisburg Hwy US Hwy 31A
 160,35.303695,-86.957878,Harris Rd
 185,35.328693,-87.081781,Mt Olive Cemetery Rd
 160,35.194933,-86.889574,US Hwy 64
@@ -841,7 +841,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 684,35.200892,-87.029127,E Washington St/N Patterson St
 305,35.037765,-86.879019,/I 65
 276,35.201008,-87.024162,Victoria St/E Woodring St
-334,35.305944,-86.882913,Lewisburg Hwy, US Hwy 31A
+334,35.305944,-86.882913,Lewisburg Hwy US Hwy 31A
 216,35.229561,-87.042033,Garland Dr
 160,35.056394,-86.894030,US Hwy 31
 1071,35.200093,-87.030488,E Jefferson St/N 1st St/W Jefferson St
@@ -946,11 +946,11 @@ Estimated daily crossings,Latitude,Longitude,Name
 968,35.199244,-87.039566,S 7th St/W College St
 160,35.218621,-86.999126,/Lewisburg Hwy
 246,35.232343,-86.886784,I 65
-160,35.299950,-86.892270,Lewisburd Hwy, US Hwy 31A
+160,35.299950,-86.892270,Lewisburd Hwy US Hwy 31A
 160,35.249741,-86.959415,/Lewisburg Hwy
 390,35.202751,-87.029280,Turner St/N 1st St
 160,35.052872,-86.894989,/Grigsby Rd
-631,35.304174,-86.884577,/Lewisburg Hwy, US Hwy 31/Lewisburg Hwy, US Hwy 31A
+631,35.304174,-86.884577,/Lewisburg Hwy US Hwy 31/Lewisburg Hwy US Hwy 31A
 390,35.196852,-87.006025,Beech Hill Rd/Bayless Dr
 334,35.203697,-87.039185,W Madison St/Circle Dr
 160,35.210812,-87.100330,Lawrenceburg Hwy
@@ -1123,7 +1123,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,35.031991,-86.878946,I- 65
 305,35.211307,-87.059003,Industrial Blvd
 185,35.059773,-86.896170,/Elkton Pike
-160,35.300975,-86.890253,/Lewisburg Hwy, US Hwy 31A
+160,35.300975,-86.890253,/Lewisburg Hwy US Hwy 31A
 334,35.201651,-87.027650,E Woodring St
 160,35.188934,-86.854977,US Hwy 64
 160,35.375811,-87.033049,/Fry Rd
@@ -1134,7 +1134,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 1329,35.199653,-87.037063,W Flower St/S 5th St
 276,35.376893,-87.006335,Mill St/W Main St
 160,35.375895,-87.014036,W Main St
-216,35.301281,-86.889467,Lewisburd Hwy, US Hwy 31A
+216,35.301281,-86.889467,Lewisburd Hwy US Hwy 31A
 216,34.996513,-86.859291,Union Hill Rd/Main St
 1020,35.189400,-87.027023,Sheila Frost Dr/
 160,35.114807,-86.841074,Hidden Hollow Rd
@@ -1144,7 +1144,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,35.101594,-86.999317,Ross Rd/Sugar Tree Rd
 160,35.375850,-87.014557,W Main St
 160,35.176706,-87.047661,Kay Dr/Keller Ave
-216,35.301482,-86.889168,Lewisburg Hwy, US Hwy 31A
+216,35.301482,-86.889168,Lewisburg Hwy US Hwy 31A
 499,35.201970,-87.047576,Tanglewood Dr
 246,35.156234,-86.879965,Snuff Branch Rd
 499,34.992356,-86.847551,Main St
@@ -1473,7 +1473,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,35.015846,-86.879478,I- 65/
 160,35.221235,-86.885284,/Beech Hill Rd
 362,35.038428,-86.879370,I- 65/Ardmore Ridge Rd
-276,35.306108,-86.882768,Lewisburg Hwy, US Hwy 31A
+276,35.306108,-86.882768,Lewisburg Hwy US Hwy 31A
 160,35.185831,-87.058176,Linden St/Gordon Ln
 185,35.283316,-87.029105,Sagewood Dr/Columbia Hwy
 418,35.081594,-86.883426,I 65
@@ -1633,7 +1633,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 334,35.113196,-86.881582,I 65
 216,35.215324,-87.010432,E Ridge/Northridge Dr
 160,35.087953,-86.935766,Elkton Pike
-160,35.294715,-86.898154,Diana Rd/Lewisburg Hwy/Lewisburg Hwy, US Hwy 31A
+160,35.294715,-86.898154,Diana Rd/Lewisburg Hwy/Lewisburg Hwy US Hwy 31A
 160,35.170683,-87.035306,Hicks Cut Rd
 246,35.376104,-87.001761,McCall St/E End St
 160,35.308222,-86.945566,/Buford Station Rd

@@ -3211,7 +3211,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,30.602504,-97.622358,Co Rd 105/Co Rd 104
 160,30.569209,-97.491031,Co Rd 101
 185,30.494044,-97.762805,Fernhill Dr
-334,30.794177,-97.431911,W, Jackson St/S Lucy St/Lucy St/W Jackson St
+334,30.794177,-97.431911,W Jackson St/S Lucy St/Lucy St/W Jackson St
 305,30.516145,-97.810715,Cadillac Cove
 160,30.546997,-97.868845,Christine Dr
 246,30.567771,-97.871212,Shamitas Ct
@@ -5348,7 +5348,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,30.575857,-97.584423,Co Rd 118/State Hwy 130
 390,30.629824,-97.652665,University Park Dr/Ashberry Trl
 1407,30.634958,-97.662018,Southwestern Blvd
-185,30.730173,-97.717406,Ports,/Portsmouth Dr
+185,30.730173,-97.717406,Ports/Portsmouth Dr
 216,30.451196,-97.805916,Hard Rock Rd/Timbercrest Ln
 160,30.552761,-97.516127,Limmer Loop
 276,30.570567,-97.829777,Co Rd 271/183A Toll Rd
@@ -9567,7 +9567,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,30.569416,-97.880482,Sunny Brook Dr
 362,30.470420,-97.830528,Whippoorwill Dr/Goldfinch Dr
 185,30.614194,-97.709647,Riverview Dr/Bent Tree Dr
-185,30.729927,-97.717637,Ports,/Portsmouth Dr
+185,30.729927,-97.717637,Ports/Portsmouth Dr
 334,30.499024,-97.761627,Pumpkin Ridge Dr/Pumpkin Ridge Ct
 216,30.830214,-97.602742,N 9th St/E Ave E
 160,30.521916,-97.608496,Country Dr
@@ -10605,7 +10605,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 362,30.555320,-97.658255,Palo Pinto Cove
 445,30.536571,-97.654505,Apollo Cir
 418,30.841684,-97.794147,/N Patterson Ave
-246,30.794495,-97.433059,S Lindeman St/W, Jackson St/Lindeman St/W Jackson St
+246,30.794495,-97.433059,S Lindeman St/W Jackson St/Lindeman St/W Jackson St
 334,30.504571,-97.613410,Red Bud Ln
 185,30.551891,-97.418606,/Carlos G Parker Blvd SW
 160,30.725153,-97.711049,Breckenridge St/Whispering Wind Dr

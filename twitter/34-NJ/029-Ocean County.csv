@@ -3458,7 +3458,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,39.975161,-74.254073,Castle Harbor Dr/Saint George St
 276,39.866704,-74.159650,Dolan St/Forrest Ave
 216,40.054672,-74.130159,Acorn Dr/Cherry Ln
-216,40.017409,-74.328976,B Cir, Pinehurst Ests/Chestnut St
+216,40.017409,-74.328976,B Cir Pinehurst Ests/Chestnut St
 185,39.960926,-74.224294,Sutton Pl/Charlen Rd
 246,40.057308,-74.081912,3rd St/Princeton Ave
 246,39.987045,-74.168157,Harpers Ferry Rd/Delos Dr
@@ -3704,7 +3704,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 499,39.571407,-74.229438,E 15th St
 499,39.888676,-74.161684,Atlantic City Blvd/Jeffrey Ln
 305,39.935747,-74.190127,Wave St/Ocean Ave
-216,40.017328,-74.330135,Chestnut St/B Cir, Pinehurst Ests
+216,40.017328,-74.330135,Chestnut St/B Cir Pinehurst Ests
 160,39.734198,-74.293786,Breakers Dr
 216,40.012146,-74.266936,Dartmoor Way
 276,40.104487,-74.505911,Monmouth Rd
@@ -7892,7 +7892,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,40.046056,-74.324876,Toms River Rd
 526,39.952180,-74.073383,Coolidge Ave/E Central Ave
 160,40.039503,-74.272339,Fontaine Ct
-334,39.686743,-74.146271,Tranquility/Dirt Access Road, Not A St/N Long Beach Blvd
+334,39.686743,-74.146271,Tranquility/Dirt Access Road Not A St/N Long Beach Blvd
 579,39.934271,-74.188563,Mermaid Ave/Wave St
 2813,40.069339,-74.130302,/Brick Blvd
 526,39.729184,-74.283315,Canal Ave/Float Ave
@@ -16582,7 +16582,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,39.960144,-74.257977,Martinique Dr/Westbrook Dr
 710,40.089382,-74.059817,Clark St/Trenton Ave
 334,39.946036,-74.198183,Flint Rd/Mill St/Center St
-305,40.016797,-74.330002,Pinehurst Ests/B Cir, Pinehurst Ests
+305,40.016797,-74.330002,Pinehurst Ests/B Cir Pinehurst Ests
 185,40.049088,-74.081993,Scheiber Dr
 185,40.004472,-74.281521,Liverpool Cir
 579,39.927547,-74.206533,Halliard Ave/Chestnut St
@@ -18781,7 +18781,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,40.069514,-74.078611,Monmouth Ct
 216,40.003485,-74.058953,Sunset Blvd
 362,40.115141,-74.246870,Arizona Ave
-185,39.684016,-74.151781,Gravelled Access Road,not Real Rd
+185,39.684016,-74.151781,Gravelled Access Roadnot Real Rd
 185,39.733424,-74.120928,Long Beach Blvd/Seaview Dr S
 362,40.052032,-74.127268,Manchester Ave
 276,39.938438,-74.174425,Motor Rd/Huntington Ave
@@ -21002,7 +21002,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,40.145437,-74.270918,Quail Rd/Deer Ln
 160,39.590251,-74.360987,Reef Ln/Seagull Dr
 246,39.781903,-74.202130,Camp Lighthouse Rd
-246,39.682648,-74.148944,Gravelled Access Road,not Real Rd/N Long Beach Blvd
+246,39.682648,-74.148944,Gravelled Access Roadnot Real Rd/N Long Beach Blvd
 160,40.070211,-74.530714,Evergreen Rd
 185,39.538194,-74.262417,Inlet Rd/Bay Ter
 216,40.014038,-74.133472,Woodland Dr/Shasta Ln
@@ -25042,7 +25042,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,40.039178,-74.199902,Hunters Ct
 334,39.972300,-74.156268,Bud Ct
 216,40.145449,-74.263201,Alabama Ct
-276,39.687358,-74.148037,Dirt Access Road, Not A St
+276,39.687358,-74.148037,Dirt Access Road Not A St
 1850,40.055397,-74.138945,/Brick Blvd
 185,40.038203,-74.198736,New Hampshire Ave/N Maple Ave
 216,39.808894,-74.175880,Privateer Dr
@@ -27054,7 +27054,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,39.949135,-74.159700,Poe Ave/8th Bayway
 891,40.093692,-74.054067,Woodland Rd/Orchard Ave
 216,39.890040,-74.181718,Michael Ave
-216,40.017340,-74.329968,Chestnut St/B Cir, Pinehurst Ests
+216,40.017340,-74.329968,Chestnut St/B Cir Pinehurst Ests
 216,39.997754,-74.182540,Marco Island Dr
 917,39.980666,-74.064400,E Spray Way/Ocean Rd
 305,40.118204,-74.252123,Illinois Ave/Louisiana Pkwy
@@ -28051,7 +28051,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 445,39.666493,-74.213537,E Bay Ave
 334,40.109443,-74.117754,/Lanes Mill Rd
 658,39.880282,-74.165231,Morris Blvd/Richard Rd
-160,39.685923,-74.148908,Dirt Access Road, Not Actual St
+160,39.685923,-74.148908,Dirt Access Road Not Actual St
 334,39.941336,-74.189079,Forepeak Ave/Beachwood Blvd
 185,40.043517,-74.174569,Haze Ct
 710,39.613518,-74.202572,Long Beach Blvd/Seagull Ave
@@ -28290,7 +28290,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 684,40.006004,-74.296863,/Colonial Dr
 305,39.699782,-74.255353,Division St/Lakewood Ave
 160,40.057158,-74.210065,Salem Ave/Vine Ave
-472,39.685254,-74.147196,Dirt Access Road, Not Actual St/N Long Beach Blvd
+472,39.685254,-74.147196,Dirt Access Road Not Actual St/N Long Beach Blvd
 305,40.047239,-74.092968,Bretonian Dr
 246,40.020771,-74.131977,Queen Ann Rd/Brookfield Dr
 246,39.860375,-74.213935,Newark Ave/Chelsea St

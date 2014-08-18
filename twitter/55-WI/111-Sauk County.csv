@@ -406,7 +406,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,43.586969,-89.786277,Scott Dr/Alcan Dr
 334,43.471966,-89.754321,Ridge St/5th Ave
 160,43.456640,-89.896387,/Diamond Hill Rd
-552,43.182387,-90.070914,Cincinnati St/W Baker St,
+552,43.182387,-90.070914,Cincinnati St/W Baker St
 216,43.278450,-89.721120,Hemlock St/Washington St
 305,43.609897,-89.862930,/Christmas Mountain Rd
 160,43.292942,-89.725429,Risley Oak Ct/Prairie St
@@ -1475,7 +1475,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,43.484927,-89.724824,Tandom Trl
 160,43.611741,-89.814575,/Oakbrook Ct/Oakbrook Dr
 216,43.606684,-89.813334,Berry Ln/Dogwood Ln
-390,43.182372,-90.069652,W Baker St,/N Washington St
+390,43.182372,-90.069652,W Baker St/N Washington St
 185,43.603663,-89.765722,/Co Rd A
 246,43.286372,-89.732431,12th St/Locust Ln
 160,43.598613,-89.798681,W Hiawatha Dr/Clara Ave
@@ -2126,7 +2126,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,43.462234,-89.744776,Quarry St/South Pkwy
 362,43.622745,-89.798502,N Frontage Rd
 185,43.582546,-89.795501,Alcan Dr
-160,43.182501,-90.064029,Baker St/N Winsted St/State Hwy 23/E Baker St,
+160,43.182501,-90.064029,Baker St/N Winsted St/State Hwy 23/E Baker St
 334,43.473755,-89.738932,East St/7th St
 160,43.605578,-89.783368,/E Hiawatha Dr
 472,43.289457,-89.726951,Broadway St/7th St

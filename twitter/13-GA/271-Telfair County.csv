@@ -139,7 +139,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,32.076721,-82.896177,Spaulding Dr/3rd Ave/US Hwy 280/Center Ave
 160,32.077587,-82.917778,N Railroad St
 305,32.068089,-82.913678,5th St/Boston Ave
-305,32.068478,-82.899310,2nd Ave/Martin Luther King, Jr Blvd
+305,32.068478,-82.899310,2nd Ave/Martin Luther King Jr Blvd
 185,32.033909,-82.908590,/US Hwy 319
 160,32.066702,-82.891022,N Railroad St/Central Ave
 160,32.057429,-82.899761,Walnut St/Telfair Ave
@@ -236,7 +236,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,32.068894,-82.899168,2nd Ave/N Railroad St
 160,32.059503,-82.920618,Forsythe Ave
 246,32.077630,-82.894977,US Hwy 280
-658,32.068813,-82.900602,3rd Ave/Martin Luther King, Jr Blvd
+658,32.068813,-82.900602,3rd Ave/Martin Luther King Jr Blvd
 216,32.072567,-82.910433,Center Ave
 472,32.069029,-82.900524,3rd Ave
 216,32.062075,-82.894878,Hunter Ave/Bonaire St
@@ -300,9 +300,9 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,31.940272,-82.958675,Batchelor Ln/Kinnett Rd
 160,32.042442,-82.852673,Golden Isles Hwy
 160,32.025667,-82.825355,/Golden Isles Hwy
-246,32.064396,-82.888972,E Oak St/Spring Ave/Martin Luther King, Jr Blvd/East Ave
+246,32.064396,-82.888972,E Oak St/Spring Ave/Martin Luther King Jr Blvd/East Ave
 160,32.056686,-82.905573,Woodland Rd/3rd Ave
-305,32.069159,-82.901896,4th Ave/Martin Luther King, Jr Blvd
+305,32.069159,-82.901896,4th Ave/Martin Luther King Jr Blvd
 160,31.940712,-82.959028,Batchelor Ln
 160,32.073653,-82.898718,3rd Ave
 160,32.042208,-82.852224,Golden Isles Hwy
@@ -320,7 +320,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,31.921704,-82.688019,Ocmulgee St/Messcah Ln
 160,32.060800,-82.881763,E Oak St
 216,32.070556,-82.901402,4th Ave
-605,32.069057,-82.904467,W Oak St/Martin Luther King, Jr Blvd
+605,32.069057,-82.904467,W Oak St/Martin Luther King Jr Blvd
 185,32.064143,-82.908897,8th Ave/W Liberty St
 362,32.062998,-82.896494,Parker St/Hudson Ave
 160,31.933919,-82.683057,Boyd St
@@ -330,7 +330,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,32.077455,-82.904870,14th St/Center Ave
 390,31.929065,-82.680086,Victoria St/E Railroad St
 160,31.936781,-82.684408,E Golden Isles Hwy/E Railroad St
-552,32.068122,-82.898005,S 1st Ave/Martin Luther King, Jr Blvd
+552,32.068122,-82.898005,S 1st Ave/Martin Luther King Jr Blvd
 160,32.057746,-82.898145,E Poplar St/Flanders Ave
 160,32.060688,-82.899446,Pritchett Ave/E Brewton St
 160,32.068987,-82.896254,Corinth Ave/W Magnolia St/Daughtry St
@@ -359,7 +359,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,32.072965,-82.903515,6th Ave/12th St
 160,32.051228,-82.861320,Golden Isles Hwy
 160,31.952668,-82.713779,E Golden Isles Hwy
-246,32.067669,-82.895979,Martin Luther King, Jr Blvd/Telfair Ave
+246,32.067669,-82.895979,Martin Luther King Jr Blvd/Telfair Ave
 185,31.922176,-82.944952,/US Hwy 319
 305,32.059101,-82.877576,E Oak St
 185,32.076014,-82.916665,Homer Ave/Golden Isles Hwy
@@ -625,6 +625,6 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,32.065762,-82.898755,Parsonage St/S 1st Ave
 160,31.835593,-82.976372,/US Hwy 319
 160,32.039222,-82.971470,/US Hwy 280
-185,32.066885,-82.892944,Hunter Ave/Martin Luther King, Jr Blvd
+185,32.066885,-82.892944,Hunter Ave/Martin Luther King Jr Blvd
 160,32.070785,-82.912382,7th St/Center Ave
 160,32.056261,-82.865593,Golden Isles Hwy

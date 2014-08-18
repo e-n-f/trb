@@ -3221,7 +3221,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.861144,-111.795492,Bella Vista Ct/Sunset Dr
 185,34.590744,-112.310419,Len Ct
 160,34.715011,-111.887482,Recycler Rd/E Cornville Rd/Desert Holly Trl
-160,34.558212,-111.857570,Genlcrook Tr,260 Byp/S Access Rd
+160,34.558212,-111.857570,Genlcrook Tr260 Byp/S Access Rd
 160,34.642624,-112.338537,N Pinnacle Pass Pl/Pinnacle Pass Lp
 160,34.659791,-112.335575,E Raywood St/N Racehorse Rd
 390,34.614183,-112.447770,/Dobberteen Dr
@@ -4897,7 +4897,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.079393,-112.139276,Squaw Valley Dr
 160,34.614677,-112.333451,E Manley Dr/N Hobo Cir
 160,34.564714,-112.479130,Utility Acc/Northside Dr
-160,34.565844,-112.479262,Dead End,alley/Northside Dr
+160,34.565844,-112.479262,Dead Endalley/Northside Dr
 160,34.697288,-112.016109,Vista Ventana Dr/E Paradise Cove
 160,34.544545,-112.480329,Sanctuary Rd
 185,34.518161,-111.782122,E Creek View Dr
@@ -7558,7 +7558,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.546327,-112.249720,State Hwy 69/S Dewey Rd
 160,34.739531,-112.014114,N 12th St/S 12th St/E Mingus Ave
 216,34.536212,-112.484356,Juanita Ter/Highland Ave
-216,34.565847,-112.476674,Dead End,alley/Demerse Ave
+216,34.565847,-112.476674,Dead Endalley/Demerse Ave
 216,34.433995,-112.070896,Dike Rd
 160,34.574108,-112.463040,Rosewood Cir
 160,34.518451,-112.475347,Pinecone Ter

@@ -164,7 +164,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.015260,-85.075068,Calloway Ter
 160,34.067184,-85.222603,Meadow Lakes Pl/Meadow Lakes Blvd
 185,33.939935,-85.149882,Hightower Falls Rd
-276,33.997715,-85.059927,/Martin Luther King ,st/Martin Luther King St
+276,33.997715,-85.059927,/Martin Luther King st/Martin Luther King St
 216,33.962749,-84.994697,/State Rte 6
 185,34.016154,-85.235600,Franklin St/Patton St
 185,34.039960,-85.056254,Oak St
@@ -188,7 +188,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,34.004166,-85.253550,Euclid St
 305,34.007716,-85.254997,School Ln/S Main St
 216,34.046563,-85.071245,Dogwood Ct
-160,33.997683,-85.056408,Martin Luther King, Jr St/Bluff St/Martin Luther King Jr St
+160,33.997683,-85.056408,Martin Luther King Jr St/Bluff St/Martin Luther King Jr St
 160,33.998576,-85.034481,E Ballinger St/Old Cartersville Rd/E Jackson St
 185,33.983526,-85.279601,Johnson Lake Rd
 160,34.013220,-85.064388,Prospect Rd
@@ -373,7 +373,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,34.008067,-85.105783,Cedartown Hwy/Rowell Rd
 160,34.013096,-85.275087,Slusser Ave
 276,34.012239,-85.262166,N Furnace St/Furnace St/Prior St
-160,33.997800,-85.056293,Martin Luther King, Jr St/Martin Luther King Jr St
+160,33.997800,-85.056293,Martin Luther King Jr St/Martin Luther King Jr St
 160,34.010613,-85.120962,/Cedartown Hwy
 160,34.016776,-85.211145,/Grover Rd
 185,34.051934,-84.995448,Davistown Rd/State Rte 113
@@ -1223,7 +1223,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,34.042461,-85.059040,State Rte 101
 160,33.994242,-85.041397,S Piedmont Ave/Newcomb S Rd
 246,34.021193,-85.266646,Wilkes Ct
-216,33.997727,-85.059198,Williamson St/Martin Luther King Jr/Martin Luther King ,st
+216,33.997727,-85.059198,Williamson St/Martin Luther King Jr/Martin Luther King st
 788,34.025664,-85.249647,John Phillips Rd/N Main St
 160,33.995496,-85.049126,Walton Way
 276,33.997003,-85.246124,Hicklen Dr/Rodgers Trl

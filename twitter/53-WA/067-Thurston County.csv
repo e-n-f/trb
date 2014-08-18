@@ -175,7 +175,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.086719,-122.781914,Bacall St NE/38th Way NE
 631,47.034602,-122.888882,/I- 5
 334,46.983295,-122.962652,71st Ct SW
-334,46.877071,-122.862437,Unnamed Rd, Driveway
+334,46.877071,-122.862437,Unnamed Rd Driveway
 445,47.006358,-122.862619,45th Ct SE/45th Ave SE
 160,47.016677,-122.761920,Stanford Ct SE
 276,47.086575,-122.833116,Rainier Ter
@@ -206,7 +206,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 1355,47.039860,-122.836520,Sound Way SE/Pacific Ave SE
 276,47.052081,-122.925640,Giles Ave NW/Division St NW
 246,47.044500,-122.864313,Pacific Ave SE/Dehart Dr SE
-160,46.891929,-122.851993,Unnamed Rd, Driveway/Old Hwy 99 SE
+160,46.891929,-122.851993,Unnamed Rd Driveway/Old Hwy 99 SE
 160,47.026902,-122.832494,Cascade Ct SE
 216,47.010743,-122.844278,Wiggins Rd SE/40th Ave SE
 216,47.034229,-122.925159,Cushing St SW
@@ -360,7 +360,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.021914,-122.819680,28th Ave SE/Judd St SE
 160,47.075775,-122.809545,Pleasant Glade Rd NE
 305,47.057187,-122.818546,Livingston Ct NE
-160,46.862468,-122.678954,Unnamed Rd, Driveway
+160,46.862468,-122.678954,Unnamed Rd Driveway
 445,47.029028,-122.926726,Cooper Point Rd SW/Caton Way SW
 160,47.085689,-122.748295,Campus Meadows Loop NE/Lupine St NE
 362,46.944620,-122.615960,Unnamed Pvt Dr/Berry Valley Dr SE
@@ -646,7 +646,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,46.855944,-122.851674,S Olympia St/W Park Ave
 390,47.044811,-122.912343,Midway Ave NW/Olympic Way NW
 390,47.045842,-122.915600,Foote St NW/Harrison Ave NW
-185,46.865331,-122.846367,Unnamed Rd, Driveway
+185,46.865331,-122.846367,Unnamed Rd Driveway
 246,47.056736,-123.013035,State Rte 8/US Hwy 101
 160,46.903843,-122.995127,Shadowbrook Dr SW/127th Ave SW
 276,46.985742,-122.946399,Shalom Ct SW/Shalom Dr SW
@@ -703,7 +703,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.091266,-122.864951,Libby Rd NE/
 418,47.054646,-122.844411,/Lilly Rd NE/Providence Ln NE
 390,47.044967,-122.888414,5th Ave SE/Eastside St SE
-185,46.872863,-122.843248,Unnamed Rd, Driveway
+185,46.872863,-122.843248,Unnamed Rd Driveway
 362,47.028109,-122.865117,Fire Ct SE/Boulevard Rd SE
 246,47.042268,-122.800548,6th Ave SE/Carpenter Rd SE
 216,46.975294,-122.859990,McGill Ct SE
@@ -955,7 +955,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 390,47.048268,-122.750481,Pinecrest Dr SE/Nicholas Ln SE
 246,46.976899,-122.884651,Stirrup Ct SE/Rein St SE
 185,46.927180,-122.587280,110th Ave SE
-552,47.004727,-122.866018,Cole Ct, SE
+552,47.004727,-122.866018,Cole Ct SE
 160,46.945327,-122.622257,/Berry Valley Rd SE
 185,47.060533,-122.844368,Lilly Rd NE/Mapleview Dr NE
 185,47.063896,-122.738511,4th Ave NE/Mett St NE
@@ -1053,7 +1053,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,46.927241,-122.578885,Bald Hill Rd SE/110th Ave SE
 1485,47.047010,-122.937661,Harrison Ave NW
 305,46.999599,-122.817193,Summerwalk St SE
-160,46.862362,-122.679948,Unnamed Rd, Driveway
+160,46.862362,-122.679948,Unnamed Rd Driveway
 185,46.988999,-122.894671,E Dennis St SE/Richardson Ln SE
 160,46.858785,-122.580097,Park Pl SE/Topaz Dr SE/Lawrence Pl SE
 276,47.008962,-122.811995,Greenbriar St SE
@@ -1111,7 +1111,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,47.070101,-122.931857,Division St NW
 160,47.096031,-123.011354,Steamboat Island Rd NW/44th Ln NW
 445,47.047609,-122.899499,/Thurston Ave NE
-185,46.873660,-122.727264,Unnamed Rd, Driveway/Yelm-Tenino Trl
+185,46.873660,-122.727264,Unnamed Rd Driveway/Yelm-Tenino Trl
 160,47.041232,-122.739464,Rockcress Dr SE/Mallard Dr SE
 246,46.963632,-122.632921,/Yelm Hwy SE
 526,47.076481,-122.970554,Overhulse Rd NW
@@ -1698,7 +1698,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 605,47.045178,-122.925906,Ascension Ave NW/Division St NW
 788,46.944071,-122.612475,SW Washington Ave/Solberg St SW/Washington Ave SW/SW Solberg St
 390,47.079542,-122.961948,Red Fern Dr NW
-160,46.861800,-122.831241,Unnamed Rd, Driveway/Old Military Rd SE
+160,46.861800,-122.831241,Unnamed Rd Driveway/Old Military Rd SE
 445,46.996197,-122.816671,Yelm Hwy SE
 185,47.016712,-122.921155,Vista Verde Ln SW/Random Ln SW
 246,46.958088,-122.586741,Port Orford Blvd SE/Figberry Ct SE
@@ -1862,7 +1862,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,46.921336,-122.936823,Trevue Ave SW/114th Way SW
 1772,47.043301,-122.833758,6th Ave SE/Sleater Kinney Rd SE
 526,46.994204,-122.807615,Masters Ln SE
-246,46.899110,-122.856833,Unnamed Rd, Driveway/Old Hwy 99 SE
+246,46.899110,-122.856833,Unnamed Rd Driveway/Old Hwy 99 SE
 216,47.017318,-122.779444,Calypso Rd/Village Dr N/Athena Ct
 160,47.057705,-122.814481,Century Ct NE/15th Ave NE
 334,46.857792,-122.852784,/Olympia St N
@@ -1929,7 +1929,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 1459,46.999369,-122.823165,College St SE
 216,47.029501,-122.879525,22nd Ave SE/Lybarger St SE
 216,47.032568,-122.857273,Allen Rd SE/18th Ave SE
-185,46.865500,-122.845806,Unnamed Rd, Driveway
+185,46.865500,-122.845806,Unnamed Rd Driveway
 362,47.038691,-122.862609,Smith St SE
 185,46.822080,-123.046230,/Nye St SW/183rd Ave SW
 3503,47.032574,-122.940868,/US Hwy 101
@@ -1993,7 +1993,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,47.068740,-122.848256,/26th Ave NE
 276,46.821731,-123.090428,Foster St SW/183rd Ave SW
 276,46.940390,-122.622303,101st Way SE
-185,46.886995,-122.694336,Unnamed Rd, Driveway/Rochester St W
+185,46.886995,-122.694336,Unnamed Rd Driveway/Rochester St W
 216,47.003173,-122.699046,/Saskatoon Ln SE
 362,47.072950,-122.770396,/29th Ave NE
 216,47.051678,-122.886919,Yew Ave NE
@@ -2160,7 +2160,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,46.859058,-122.848270,/N Custer St
 305,46.986920,-122.817093,Inlay St SE/Balustrade Blvd SE
 276,47.076626,-122.956506,Cedrona Pl NW/Cedrona Dr NW
-160,46.865543,-122.845662,Unnamed Rd, Driveway
+160,46.865543,-122.845662,Unnamed Rd Driveway
 160,46.901418,-122.518000,128th Ave SE
 605,46.953033,-122.602849,Rhoton Ct NW
 216,47.021745,-122.865923,Morse Ct SE/Morse Rd SE
@@ -2674,7 +2674,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,47.046856,-122.866478,Steele St NE/State Ave NE/S Bay Rd NE
 658,47.016760,-122.915104,Vista Loop SW/Dahlia Ln SW
 362,46.999213,-122.848368,/Yelm Hwy SE
-334,47.005482,-122.865979,Cole Ct, SE/Blvd Heights Loop, SE
+334,47.005482,-122.865979,Cole Ct SE/Blvd Heights Loop SE
 305,46.953817,-122.589453,Mt Sunrise St SE
 276,47.004173,-122.778950,Asia Ct SE/Mullen Rd SE
 160,47.092137,-123.010396,/Gravelly Beach Rd NW
@@ -3000,7 +3000,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 813,47.046760,-122.764819,Steilacoom Rd SE/Marvin Rd SE
 472,46.935406,-122.591558,NE Yelm View Ct SE
 160,46.987013,-122.934840,Miner Dr SW
-160,46.898068,-122.856499,Unnamed Rd, Driveway/Old Hwy 99 SE
+160,46.898068,-122.856499,Unnamed Rd Driveway/Old Hwy 99 SE
 246,46.893180,-122.962076,I- 5
 185,47.008939,-122.952767,Sapp Rd SW
 160,47.016087,-122.762867,Radcliff Ct SE/Lake Forest Dr SE
@@ -3258,7 +3258,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,46.993993,-122.965907,60th Ave SW/Black Lake Belmore Rd SW
 160,46.964526,-123.039216,Waddell Creek Rd SW
 160,47.024120,-122.832590,Leisure Ln SE/Chambers Lake Dr SE
-216,47.006893,-122.867735,Blvd Heights Loop, SE/Covey St SE
+216,47.006893,-122.867735,Blvd Heights Loop SE/Covey St SE
 216,46.955862,-122.627556,Burnett Rd SE/91st Ave SE
 276,47.085029,-122.782882,Astaire St NE/Spencer Ave NE
 160,47.006848,-122.832697,45th Ave SE
@@ -3317,7 +3317,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,46.797176,-123.027469,201st Ave SW
 305,46.822354,-123.095645,/Bend St SW
 216,47.044662,-122.990389,US Hwy 101
-160,46.893706,-122.853093,Unnamed Rd, Driveway/Old Hwy 99 SE
+160,46.893706,-122.853093,Unnamed Rd Driveway/Old Hwy 99 SE
 216,46.976509,-122.994653,77th Ave SW/Greenridge St SW
 160,47.011210,-122.742318,Golden Eagle Ct SE/Golden Eagle Loop SE
 160,46.981155,-122.937434,73rd Ave SW/Littlerock Rd SW
@@ -3352,7 +3352,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,46.930384,-122.595432,Vancil Rd SE/Palouse Ave SE
 390,47.003942,-122.772783,48th Ave SE/48th Loop SE
 185,47.032467,-122.904152,Sylvester St SW
-216,47.006836,-122.867738,Blvd Heights Loop, SE
+216,47.006836,-122.867738,Blvd Heights Loop SE
 246,47.043822,-122.750921,Bayenes Ct SE
 185,47.060016,-122.915345,Harbor View Rd NW/W Bay Dr NW
 160,47.138309,-122.906154,Bayview Dr NE/72nd Ave NE
@@ -3623,7 +3623,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,46.828654,-123.070557,Applegate St SW/178th Way
 160,47.038005,-122.774591,Carmel Ct SE
 246,47.071291,-122.942361,Cooper Pt Rd NW/28th Ave NW
-185,46.859069,-122.803234,Unnamed Rd, Driveway
+185,46.859069,-122.803234,Unnamed Rd Driveway
 334,46.996853,-122.802275,Gem Ct SE
 160,46.993693,-122.931385,Glenwood Dr SW
 499,46.999805,-122.806486,Ivy Hill Ln SE/54th Ave SE
@@ -4012,7 +4012,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,47.006793,-122.855224,Wilderness Dr SE
 216,47.010255,-122.892360,Kelsey St SE/Lloyd St SE
 160,47.051534,-122.882565,Central St NE
-246,46.877491,-122.693810,Unnamed Rd, Driveway/145th Ln SE
+246,46.877491,-122.693810,Unnamed Rd Driveway/145th Ln SE
 160,47.007172,-122.867714,Covey St SE
 305,46.943035,-122.594007,Cascadian Ct SE
 185,47.012442,-122.923290,Crosby Blvd SW/Vista Loop SW/Summit Ct SW
@@ -4558,7 +4558,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 526,47.046908,-122.877611,Fir St NE/State Ave NE
 216,47.023216,-122.886090,Monta Vista St SE/Eskridge Blvd SE
 216,47.063584,-122.746375,Hyak Ct NE
-216,46.862611,-122.846623,Unnamed Rd, Driveway/Old Hwy 99 SE
+216,46.862611,-122.846623,Unnamed Rd Driveway/Old Hwy 99 SE
 160,46.856609,-122.846928,Old Dump Rd/Washington Ave E
 445,47.012526,-122.832689,Santis Loop SE/Wildspitz St SE
 160,47.059907,-122.808493,Mark St NE/17th Ave NE
@@ -4647,7 +4647,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,47.045539,-122.965505,4th Way SW
 246,46.955225,-122.895851,Longhorn Ct SE/Longhorn Loop SE
 160,47.045613,-122.946998,Rd F/Rd B
-185,46.865326,-122.845731,Unnamed Rd, Driveway
+185,46.865326,-122.845731,Unnamed Rd Driveway
 472,47.051055,-122.847852,Ensign Rd NE
 160,47.052246,-122.836761,San Mar Dr NE
 216,46.994315,-122.761734,Winnwood Loop SE/Winnwood Dr SE
@@ -5030,7 +5030,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 943,47.011705,-122.905880,/E St SW
 276,47.003862,-122.793513,49th Ct SE/Forest Glen Dr SE
 160,47.046503,-123.014550,Simpson Dr SW
-246,46.899100,-122.856909,Unnamed Rd, Driveway
+246,46.899100,-122.856909,Unnamed Rd Driveway
 276,46.805992,-123.044168,/195th Ave SW
 334,47.036746,-122.887172,/Eastside St SE
 160,46.989006,-122.965943,Black Lake Belmore Rd SW/66th Ave SW
@@ -5962,7 +5962,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,46.815159,-123.001247,188th Ave SW
 526,47.059645,-122.777295,78th Pl NE
 185,46.819748,-122.465768,Parkcrest Ln SE/Rampart Dr SE
-216,46.872652,-122.844243,Unnamed Rd, Driveway/Old Hwy 99 SE
+216,46.872652,-122.844243,Unnamed Rd Driveway/Old Hwy 99 SE
 418,46.999976,-122.922259,Trosper Rd SW/54th Ave SW
 185,47.124808,-122.930177,Tralee Dr NW
 276,47.014842,-122.824631,36th Ct SE
@@ -6250,7 +6250,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,46.923595,-122.950146,/113th Ave SW
 160,47.029051,-122.735852,Piperhill Dr SE/Thornhill Ct SE
 160,47.068818,-122.758670,Zenith Ct NE
-160,46.859586,-122.849887,Sheridan St N/Unnamed St, Aly
+160,46.859586,-122.849887,Sheridan St N/Unnamed St Aly
 334,47.050636,-122.744443,B St
 246,47.039950,-122.774123,Nottingham Dr SE/Pacific Ave SE
 246,47.063192,-122.951465,20th Ave NW/Aqua Ct NW
@@ -6558,8 +6558,8 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,47.077946,-123.020746,US Hwy 101
 552,47.016243,-122.917080,Barnes Blvd SW
 684,47.046258,-122.833713,Sleater Kinney Rd SE
-160,46.888660,-122.850898,Unnamed Rd, Driveway/Old Hwy 99 SE
-160,46.891892,-122.852139,Unnamed Rd, Driveway
+160,46.888660,-122.850898,Unnamed Rd Driveway/Old Hwy 99 SE
+160,46.891892,-122.852139,Unnamed Rd Driveway
 445,47.017988,-122.919077,Vista Loop SW/12th Ave SW
 185,47.060267,-122.826870,Alonda Ln NE
 684,47.007367,-122.827935,Maricite St SE
@@ -6583,7 +6583,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 418,47.041878,-122.902490,Amanda Smith Way/Columbia St SW
 185,46.935935,-122.608377,Yelm Terra St SE
 246,47.039133,-122.839148,Chehalis Western Trl/Olympia Woodland Trl/Lacey Woodland Trl
-418,47.004869,-122.877822,Briggs Ct, SE
+418,47.004869,-122.877822,Briggs Ct SE
 185,47.044266,-122.774937,Steilacoom Rd SE/Royal Oakes Dr SE
 418,47.031326,-122.806937,17th Ct SE/18th Ave SE
 445,47.062107,-122.881178,Sable Ln NE
@@ -6913,7 +6913,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,47.013842,-122.883648,Pifer Ct SE
 499,47.019958,-122.806858,/30th Ave SE
 390,47.006606,-122.825111,Natalee Dr SE/Timothy St SE
-160,46.893700,-122.852961,Unnamed Rd, Driveway
+160,46.893700,-122.852961,Unnamed Rd Driveway
 305,47.034951,-122.949905,Colonial Ct SW/Lakemoor Loop SW
 185,47.078999,-122.953989,32nd Way NW/33rd Way NW
 216,47.043494,-122.879042,McCormick St SE/7th Ave SE
@@ -6933,8 +6933,8 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,46.906056,-122.573410,Hannus Rd SE/Vail Rd SE
 185,47.004553,-122.934529,Ridge Gate Ln SW/Lambskin St SW
 216,47.055899,-122.696149,Nisqually Park Dr SE/Nisqually Park Loop SE
-185,46.862610,-122.846547,Unnamed Rd, Driveway
-160,46.878309,-122.845680,Unnamed Rd, Driveway/Old Hwy 99 SE
+185,46.862610,-122.846547,Unnamed Rd Driveway
+160,46.878309,-122.845680,Unnamed Rd Driveway/Old Hwy 99 SE
 445,46.971503,-122.881240,Belmonte Dr SE/Derby Ln SE
 160,47.025568,-122.853565,Polar Pl SE
 185,46.857875,-122.667901,Vail Cut Off Rd SE
@@ -7127,7 +7127,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.023472,-122.819745,Judd St SE
 160,47.076017,-122.929955,Old Port Ct NW
 185,47.019333,-122.893911,Vista Ave SE/Maringo Rd SE
-160,46.860768,-122.669916,Unnamed Rd, Driveway
+160,46.860768,-122.669916,Unnamed Rd Driveway
 160,47.037963,-122.776152,Irene St SE/Skyridge St SE
 160,46.851173,-122.583140,Pleasant Beach Dr SE/162nd Ln SE
 445,47.020184,-122.922020,/Brittany Ln SW/Kingston Ln SW
@@ -7693,7 +7693,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,46.857153,-122.502830,/Bald Hill Rd SE
 160,46.989151,-123.004705,/Delphi Rd SW
 185,47.010063,-122.754166,Marvin Rd SE
-160,46.879307,-122.864376,Unnamed Rd, Driveway/143rd Ave SE
+160,46.879307,-122.864376,Unnamed Rd Driveway/143rd Ave SE
 160,46.913217,-122.829285,120th Ave SE/Bronson St SE
 334,47.000008,-122.926739,Rural Rd SW/54th Ave SW
 160,47.003548,-122.830698,Brillshire Ln SE
@@ -7721,7 +7721,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.018323,-122.892620,Lorne St SE
 216,46.901839,-123.020618,la France Rd SW/128th Ave SW
 185,46.952746,-122.950125,93rd Ave SW/Blomberg St SW
-160,46.860929,-122.670387,Unnamed Rd, Driveway
+160,46.860929,-122.670387,Unnamed Rd Driveway
 499,47.046981,-122.934846,Limited Ln NW
 839,47.067855,-122.725107,I- 5
 160,46.913989,-122.569866,Meadowlark Ln SE/Vail Rd SE
@@ -8970,7 +8970,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,46.901738,-122.670792,/Yelm-Tenino Trl
 246,46.994562,-123.028374,Marantha Ln SW
 185,47.012059,-122.805198,39th Ave SE/Apollo St SE
-160,46.876112,-122.713624,Unnamed Rd, Driveway//Yelm-Tenino Trl
+160,46.876112,-122.713624,Unnamed Rd Driveway//Yelm-Tenino Trl
 362,46.992195,-122.803826,Virginia St SE/Yelm Hwy SE
 246,46.977917,-122.848184,75th Ave SE
 185,47.039804,-122.760325,Sitka St SE/9th Way SE
@@ -9093,7 +9093,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,47.085486,-122.741536,Stevens Dr NE
 305,47.047079,-122.753305,Avalon Ct SE
 390,46.943302,-122.611044,Rice St SW/Washington Ave SW
-160,46.862345,-122.680054,Unnamed Rd, Driveway/Vail Cut Off Rd SE
+160,46.862345,-122.680054,Unnamed Rd Driveway/Vail Cut Off Rd SE
 160,46.992671,-122.912305,X St SW/Esther St SW
 160,47.109717,-122.961354,/Wagon Train Ln
 499,47.039850,-122.867725,Olympia Woodland Trl
@@ -9258,7 +9258,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.008402,-122.713731,Thornton Rd SE
 185,47.064463,-122.740556,Pleasant Hill Ct NE
 445,47.018146,-122.819103,32nd Ave SE/Impala Dr SE
-185,46.886387,-122.721601,Unnamed Rd, Driveway
+185,46.886387,-122.721601,Unnamed Rd Driveway
 736,47.011687,-122.904611,E St SE/Capitol Blvd S/E St
 185,46.936640,-122.608969,Parkview Dr SE
 216,47.025869,-122.860620,Briar Lea Loop SE/Nathan Ct SE
@@ -9750,7 +9750,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,47.003237,-122.858209,Donovan Dr SE/Donavan Dr SE
 185,46.799032,-123.017383,Future Street Connection
 526,46.851488,-122.862673,W 6th Ave/Greene St/Old Hwy 99 SE/Huston St S
-216,46.879319,-122.809451,Unnamed Rd, Driveway/Vantine Rd SE
+216,46.879319,-122.809451,Unnamed Rd Driveway/Vantine Rd SE
 418,47.046810,-122.865106,State Ave NE/Phoenix St NE
 216,47.027761,-122.800074,22nd Ave SE/22nd Ct SE
 276,46.942638,-122.586010,100th Ct SE
@@ -9904,7 +9904,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,46.938081,-122.614627,Yelm-Tenino Trl
 185,47.000759,-122.741939,Tri Lake Loop SE/Tri Lake Dr SE/Berger Dr SE
 216,47.037527,-122.839111,Chehalis Western Trl
-216,46.887113,-122.721459,Unnamed Rd, Driveway/Page Rd SE
+216,46.887113,-122.721459,Unnamed Rd Driveway/Page Rd SE
 216,47.026352,-122.864324,Meagan Ct SE
 305,47.019922,-122.883059,Boundary St SE/Carlyon Ave SE
 216,46.914530,-122.936088,Blooms Ct SW
@@ -10047,7 +10047,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 684,47.018042,-122.905321,/Deschutes Way
 246,47.036168,-122.923357,Decatur St SW/13th Ave SW
 246,47.050517,-122.833692,Sleater Kinney Rd NE
-579,47.003736,-122.877767,Briggs Ct, SE
+579,47.003736,-122.877767,Briggs Ct SE
 185,47.052339,-122.976752,/Evergreen Pkwy NW
 418,47.007471,-122.921258,Liberty Ave SW
 1278,47.045449,-122.893405,4th Ave E
@@ -10055,7 +10055,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 390,47.039879,-122.942043,/Capitol Mall Dr SW
 445,47.059743,-122.785358,Warner St NE
 552,47.063134,-122.881171,Sable Ln NE
-160,46.861869,-122.831287,Unnamed Rd, Driveway
+160,46.861869,-122.831287,Unnamed Rd Driveway
 839,47.035433,-122.903293,Sid Snyder Ave SW/Water St SW
 216,47.061578,-122.754837,Skokomish Way NE/Wynoochee Pl NE
 362,47.030857,-122.897539,20th Ave SE
@@ -10065,7 +10065,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.036159,-122.840728,Providence St SE/Plantation Ct SE
 334,47.003855,-122.818479,Stikes Dr SE
 305,47.062852,-122.844351,Lilly Rd NE/Windwood Pl NE/Landau Ave NE
-390,47.006879,-122.865977,Cole Ct, SE/Blvd Heights Loop, SE
+390,47.006879,-122.865977,Cole Ct SE/Blvd Heights Loop SE
 305,47.095204,-122.775930,Logan Dr NE
 185,47.018231,-122.921040,Vista Loop SW/Barnes Blvd SW
 526,47.034228,-122.827635,/14th Ave SE
@@ -10553,7 +10553,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,47.000936,-122.819267,53rd Ave SE
 362,47.004660,-122.815233,Parkside Dr SE/47th Ave SE
 160,47.090806,-122.738328,/Meridian Rd NE
-185,46.879330,-122.808782,Unnamed Rd, Driveway
+185,46.879330,-122.808782,Unnamed Rd Driveway
 185,47.079865,-122.788706,Tolmie Dr NE/Eagle Dr NE
 276,46.972464,-122.836403,79th Ave SE/Normandy St SE
 160,46.923605,-122.952036,113th Ave SW
@@ -10718,7 +10718,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,47.053666,-122.888667,Eastside St NE/Pine Ave NE
 276,47.018793,-122.936507,Somerset Hill Dr SW
 526,46.933884,-122.597569,Prairie Heights St SE/Vancil Loop SE/Prairie Hts SE
-160,46.897680,-122.856484,Unnamed Rd, Driveway
+160,46.897680,-122.856484,Unnamed Rd Driveway
 472,47.024647,-122.917947,12th Ave SW
 160,46.961443,-122.593872,Ordway Dr SE/Unnamed Private Dr
 390,46.943010,-122.595267,Ramsay Ct/Prairie Creek Loop SE
@@ -11054,7 +11054,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,47.046055,-122.879102,McCormick St SE/McCormick St NE/4th Ave E
 526,46.998323,-122.806401,Topaz St SE/55th Way SE
 526,47.040491,-122.869049,Boulevard Rd SE
-185,46.887693,-122.694605,Unnamed Rd, Driveway
+185,46.887693,-122.694605,Unnamed Rd Driveway
 246,47.047099,-122.944291,Mud Bay Rd W
 362,47.047055,-122.762910,Steilacoom Rd SE
 499,46.947229,-122.608255,Coates Ave NW/Solberg Ct SE
@@ -11070,7 +11070,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.050808,-122.916824,Percival St NW
 160,47.077629,-122.788591,Bonanza Ct NE
 445,47.075637,-122.967847,Driftwood Rd NW
-362,47.006897,-122.865210,Blvd Heights Loop, SE/Boulevard Rd SE
+362,47.006897,-122.865210,Blvd Heights Loop SE/Boulevard Rd SE
 185,47.043371,-122.946938,/5th Ave SW
 216,46.899830,-122.991009,/Fast Ln SW
 160,47.125840,-122.933154,Cooper Point Rd NW/65th Ln NW
@@ -11348,7 +11348,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 1149,46.999444,-122.917428,Skipper Ln SW
 160,46.904501,-123.026645,River St SW
 160,47.036834,-122.773073,Kenya Ct SE
-185,46.879370,-122.697758,Unnamed Rd, Driveway
+185,46.879370,-122.697758,Unnamed Rd Driveway
 216,47.021015,-122.865172,/Boulevard Rd SE
 185,46.987523,-122.938637,Bel Mor Ct SW
 160,47.121907,-122.966836,Boardman Ct NW/Boardman Rd NW
@@ -11444,14 +11444,14 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,46.950464,-122.844321,Rich Rd SE
 216,47.005387,-122.753607,Winter Bright Dr SE
 185,47.052790,-122.761437,Red Tail Ct SE
-185,46.865354,-122.846555,Unnamed Rd, Driveway/Old Hwy 99 SE
+185,46.865354,-122.846555,Unnamed Rd Driveway/Old Hwy 99 SE
 185,47.042286,-122.799185,6th Ave SE/Kenneth Ct SE
 246,47.084323,-122.741110,Eld Ct NE
 216,47.045194,-122.875612,5th Ave SE/Fairview St SE
 160,47.051537,-122.923258,Milroy St NW
 3671,47.032495,-122.940710,Black Lake Blvd SW/US Hwy 101
 865,47.024562,-122.923038,Crosby Blvd SW
-160,46.898060,-122.856619,Unnamed Rd, Driveway
+160,46.898060,-122.856619,Unnamed Rd Driveway
 305,47.010447,-122.887719,Maplewood Ln SE
 185,46.957521,-122.600670,Canal Rd SE/Canal Rd NW/Rhoton Rd SE
 160,47.106250,-123.054161,Oyster Bay Rd NW/Matsu St NW
@@ -11463,7 +11463,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,47.077265,-122.897653,Flora Vista Rd NE
 499,47.028771,-122.895139,I- 5
 276,47.007059,-122.812615,45th Ave SE
-160,46.897684,-122.856356,Unnamed Rd, Driveway/Old Hwy 99 SE
+160,46.897684,-122.856356,Unnamed Rd Driveway/Old Hwy 99 SE
 185,47.033703,-122.895849,Jefferson St SE/16th Ave SE
 160,46.826396,-122.861532,Crowder Rd SE/180th Ave SE
 216,47.049081,-122.952160,4th Ave NW
@@ -11635,7 +11635,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,47.023346,-122.861668,Edinburgh Ct SE/Gael Ct SE
 305,46.993334,-122.827379,Beckonridge Ln SE/Bryanston Ln SE
 418,47.026993,-122.923251,Cooper Point Rd SW
-160,46.859244,-122.851001,Stage St N/Unnamed St, Aly
+160,46.859244,-122.851001,Stage St N/Unnamed St Aly
 185,47.049690,-122.917741,Rogers St NW/Madison Ave NW
 216,47.029218,-122.816900,Sheridan Dr SE
 246,47.010337,-122.855572,Ashford Ct SE

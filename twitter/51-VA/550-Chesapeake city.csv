@@ -241,7 +241,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,36.569230,-76.250671,Cardinal St
 390,36.720514,-76.274651,Alexander Ln/Ricks Ct
 185,36.763055,-76.222894,Aint Andrews Reach/Saint Andrews Reach
-160,36.731783,-76.313215,Moses Grandy Trail, Sr165
+160,36.731783,-76.313215,Moses Grandy Trail Sr165
 185,36.787657,-76.296292,Vera St
 185,36.695345,-76.269363,Amberline Ct/Amberline Dr
 276,36.815614,-76.248911,Wagon Rd/Border Rd
@@ -1437,7 +1437,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,36.709916,-76.197272,Althea Ct
 305,36.860447,-76.402149,/Poplar Hill Rd
 334,36.702485,-76.190504,Deland Ct/Tallahassee Dr
-216,36.739019,-76.338643,Shipyard Rd/Moses Grandy Trail, Sr165
+216,36.739019,-76.338643,Shipyard Rd/Moses Grandy Trail Sr165
 160,36.571816,-76.127045,Baum Rd
 185,36.762745,-76.316373,Anabranch Trce/Ferguson Cove
 362,36.792476,-76.283113,I- 464
@@ -2410,7 +2410,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 1174,36.785576,-76.405957,I- 664/I- 264
 160,36.742885,-76.212826,Great Marsh Ave
 185,36.791758,-76.271305,Vernon Ct/Walden St
-160,36.729887,-76.309796,Moses Grandy Trail, Sr165
+160,36.729887,-76.309796,Moses Grandy Trail Sr165
 160,36.697440,-76.235382,Millwood Ave/E Royce Dr
 276,36.841091,-76.388400,Hardwick Ter/Sidley Rd
 276,36.858198,-76.411069,Radford Cir/Woodbaugh Dr
@@ -4136,13 +4136,13 @@ Estimated daily crossings,Latitude,Longitude,Name
 499,36.750821,-76.349391,Weeping Cedar Trl/Galberry Rd
 185,36.704658,-76.249214,Woodbridge Dr/Vanette Dr
 390,36.727183,-76.330989,Lynnfield Rd/Triton Trce
-160,36.729693,-76.309449,Moses Grandy Trail, Sr165
+160,36.729693,-76.309449,Moses Grandy Trail Sr165
 216,36.763677,-76.344383,Trade St/George Washington Hwy N
 390,36.737440,-76.217820,Majorie Ln
 305,36.766989,-76.203991,Kempsville Rd/Orchard Grove Dr
 160,36.832575,-76.410824,Shorewood Dr/Denning Ln
 305,36.774122,-76.263831,Burr Ct/McCosh Dr
-362,36.734372,-76.316337,Moses Grandy Trail, Sr165/Millville Rd
+362,36.734372,-76.316337,Moses Grandy Trail Sr165/Millville Rd
 362,36.792491,-76.220839,Seaton Cir
 276,36.766772,-76.230272,/Progressive Dr
 160,36.704024,-76.291248,Aguila Dr
@@ -4676,7 +4676,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,36.844098,-76.415091,Scotsman Run
 160,36.811092,-76.237379,Lilac Ave/Rokeby Ave
 276,36.707360,-76.197668,Priscilla Ln/Glenda Cres
-390,36.728581,-76.305832,Sebriell Way/Moses Grandy Trail, Sr165
+390,36.728581,-76.305832,Sebriell Way/Moses Grandy Trail Sr165
 276,36.742849,-76.211749,Warrington Blvd/Great Marsh Ave
 185,36.703790,-76.342436,Dominion Blvd S
 216,36.790016,-76.402363,Sunnybrook Ter/Cedar Grove Cres
@@ -5699,7 +5699,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 445,36.841522,-76.431483,Huntsman Rd/Big Bend Dr
 552,36.778490,-76.438022,W Military Hwy/S Military Hwy
 472,36.752565,-76.276293,Pine Wood Run/Dominion Blvd N
-246,36.735557,-76.317622,Moses Grandy Trail, Sr165
+246,36.735557,-76.317622,Moses Grandy Trail Sr165
 246,36.766559,-76.347207,Yadkin Rd
 216,36.684121,-76.193623,Fentress Loop/Etheridge Manor Blvd
 334,36.681022,-76.208003,Deer Ridge Ct
@@ -6074,7 +6074,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 418,36.839609,-76.400647,Lilley Cove Dr/Bruce Rd
 246,36.848238,-76.417151,Munford Ln
 185,36.709275,-76.195846,Chantilly Ln/Dunleavy St
-276,36.738906,-76.326026,Moses Grandy Trail, Sr165/Terwillinger Rd
+276,36.738906,-76.326026,Moses Grandy Trail Sr165/Terwillinger Rd
 246,36.736692,-76.199988,Butts Station Rd/Elbow Rd
 552,36.575069,-76.199247,Great Brg/Gallbush Rd/Great Brg Byp/Battlefield Blvd S
 658,36.806368,-76.254709,Golden Leaf Dr/Crestwood Ln
@@ -6506,7 +6506,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 334,36.759434,-76.349960,Happy Acres Rd
 334,36.827565,-76.399388,Millgrove Ct
 390,36.823184,-76.280058,I- 464
-390,36.728088,-76.304211,Lancing Way/Moses Grandy Trail, Sr165/Cedar Rd/Moses Grandy Trl
+390,36.728088,-76.304211,Lancing Way/Moses Grandy Trail Sr165/Cedar Rd/Moses Grandy Trl
 418,36.852501,-76.414491,Miars Farm Cir/Peppercorn Dr
 305,36.747820,-76.209312,Miriam Dr/
 334,36.789704,-76.331136,George Washington Hwy N/Lynchs Ln
@@ -7059,7 +7059,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 305,36.684575,-76.207633,Villa Dr
 276,36.776576,-76.217372,Thyme Trl/Savory Cres
 160,36.643210,-76.149062,Carolina Rd
-216,36.729319,-76.308780,Moses Grandy Trail, Sr165
+216,36.729319,-76.308780,Moses Grandy Trail Sr165
 185,36.806354,-76.243100,Delta Ct
 216,36.854096,-76.412498,Dordon St
 362,36.781770,-76.266089,Coral Ave
@@ -7227,7 +7227,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,36.726830,-76.342988,Ridgeboard Pl
 276,36.815494,-76.248968,Wagon Rd/Border Rd
 362,36.712653,-76.282965,Lands End Dr/Cedar Cmn
-276,36.738617,-76.325085,Moses Grandy Trail, Sr165
+276,36.738617,-76.325085,Moses Grandy Trail Sr165
 160,36.739200,-76.239742,Oak Grove Rd
 216,36.719918,-76.176827,Ravenna Cres/Riviara Pl
 160,36.697683,-76.212362,Etheridge Rd/Stockleybridge Dr
@@ -7255,7 +7255,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,36.769115,-76.340992,Clay Ave/George Dr
 305,36.656483,-76.235480,Edinburgh Pkwy/Hillcrest Pkwy
 160,36.713419,-76.275213,Doe Run Ct
-276,36.734787,-76.316787,Moses Grandy Trail, Sr165
+276,36.734787,-76.316787,Moses Grandy Trail Sr165
 526,36.815856,-76.272016,Chesapeake Ave/Ohio St
 305,36.811542,-76.269942,Holly Ave/Seaboard Ave
 216,36.783323,-76.346640,King Arthur Dr/Aaron Dr
@@ -7445,7 +7445,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,36.683370,-76.195979,Matty Trce
 445,36.819671,-76.255532,Berkley Ave/Bethel Rd
 305,36.767697,-76.267726,Balford Ln
-216,36.731377,-76.312463,Moses Grandy Trail, Sr165
+216,36.731377,-76.312463,Moses Grandy Trail Sr165
 605,36.774690,-76.330820,Geneva Ave
 160,36.862396,-76.410335,Collins Blvd/Greendell Rd
 684,36.802941,-76.260615,Parrish St/Stowe St

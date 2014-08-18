@@ -370,7 +370,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,30.007319,-92.449700,/Main St
 216,30.005715,-92.290965,W 7th St/Jackson Ave
 246,29.998846,-92.286449,/N Irving Ave
-579,30.003139,-92.282293,M L King, Jr Dr/Faye Ave/E 7th St
+579,30.003139,-92.282293,M L King Jr Dr/Faye Ave/E 7th St
 390,29.998864,-92.116867,/la Highway 82
 160,29.974577,-92.048265,Ray Rd/North Rd
 160,30.106711,-92.107202,Wade Rd/Soop Rd
@@ -733,7 +733,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,29.963396,-92.106912,S Hospital Dr/Greenbriar Ln
 160,30.002270,-92.295998,W 2nd St/Louisiana Ave
 160,29.954270,-92.006300,Ollie Rd/Veteran Memorial Dr
-305,30.002658,-92.280682,M L King,jr Dr/Ml King Jr Dr
+305,30.002658,-92.280682,M L Kingjr Dr/Ml King Jr Dr
 185,29.958318,-92.020575,Veterans Memorial Dr
 276,30.108651,-92.115552,Lafayette Rd
 185,29.968014,-92.126732,S Lyman St/Maude Ave
@@ -2194,7 +2194,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,29.961649,-92.136352,S Louisiana St
 160,30.012666,-92.054536,/E Hwy 338
 246,30.115565,-92.167961,/Nola/Edia St
-390,30.002819,-92.281210,M L King, Jr Dr/Guidry Ave/Ml King Jr Dr
+390,30.002819,-92.281210,M L King Jr Dr/Guidry Ave/Ml King Jr Dr
 160,29.964833,-92.005581,Glenn Rd
 362,29.965093,-92.136599,S Saint Charles St/E Martin Luther King Jr Dr
 185,29.964854,-92.125479,Kibbie St/Vernon Ave
@@ -2522,7 +2522,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,29.965504,-92.124463,Schlessinger St/Greene Ave
 788,29.997114,-92.279962,Morvant Ave
 472,29.971938,-92.102439,Veterans Memorial Dr/Sudduth St
-305,30.002499,-92.280143,M L King,jr Dr/M L King Jr Dr/N Frederick Ave
+305,30.002499,-92.280143,M L Kingjr Dr/M L King Jr Dr/N Frederick Ave
 276,30.038034,-92.510415,N 4th St/Premeaux St/Primeaux St
 305,30.003558,-92.287018,W 6th St/Church Ave
 160,29.967121,-92.128767,Felicity St/S Miles St

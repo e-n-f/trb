@@ -3398,7 +3398,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 1226,40.918846,-73.860253,/Yonkers Ave
 160,41.302469,-73.913631,Buena Vista Ave
 216,41.121795,-73.815696,448/State Hwy 117
-334,41.203413,-73.643480,Village Green, Alternative Main St
+334,41.203413,-73.643480,Village Green Alternative Main St
 362,41.063302,-73.846002,Old White Plains Rd
 305,41.095738,-73.866771,Kelbourne Ave/Monroe Ave
 1226,40.916348,-73.781697,I- 95/Cross Westchester Ave
@@ -5459,7 +5459,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,41.194662,-73.875956,Franklin Ave
 276,41.011535,-73.879568,/Highview Cir/Station Plz/High St
 160,41.195326,-73.592660,Heron Lake Dr
-445,41.203675,-73.643788,Village Green, Alternative Main St/Old Post Rd/Cantitoe St
+445,41.203675,-73.643788,Village Green Alternative Main St/Old Post Rd/Cantitoe St
 305,40.947997,-73.828514,Leonard Rd/Ridge Rd
 445,41.332434,-73.817293,US Hwy 6/Taconic State Pkwy
 160,40.988910,-73.730470,Pleasant Ridge Rd/James Rd
@@ -7083,7 +7083,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,40.994156,-73.742483,Birchwood Rd/Elmwood Rd
 2759,40.953161,-73.842868,Central Park Ave/Tuckahoe Rd
 216,40.938431,-73.762903,Lookout Cir/Echo Ln
-185,41.206306,-73.646512,Old Post Rd, Alternative State Hwy Rte 22/Cantitoe St, Alternative State Hwy Rte 22/Cantitoe St, Alternative State Hwy 22
+185,41.206306,-73.646512,Old Post Rd Alternative State Hwy Rte 22/Cantitoe St Alternative State Hwy Rte 22/Cantitoe St Alternative State Hwy 22
 658,41.166952,-73.847588,Croton Ave/Brookville Ave/Calam Ave
 362,41.008960,-73.752582,Mamaroneck Ave
 334,41.273627,-73.708477,Woodsbridge Rd
@@ -8129,7 +8129,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 362,41.060060,-73.857581,Sheldon Ave
 390,41.009009,-73.850982,I- 87/Saw Mill River Rd
 1746,40.926861,-73.805321,New Rochelle Rd
-160,41.206128,-73.646590,Old Post Rd/Guard Hill Rd/Cantitoe St, Alternative State Hwy Rte 22
+160,41.206128,-73.646590,Old Post Rd/Guard Hill Rd/Cantitoe St Alternative State Hwy Rte 22
 246,41.269271,-73.933544,McGuire Ave/Wood St
 788,40.918951,-73.806576,4th Ave/6th St
 246,41.046361,-73.787721,/Old Tarrytown Rd
@@ -8300,7 +8300,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 445,41.054076,-73.813444,N Perkins Ave
 658,41.292994,-73.915343,Howard St/N Broad
 390,41.328048,-73.823571,Buckhorn St/Union Rd
-160,41.275424,-73.580965,Old Post Rd/Waccabuc River Ln/Pvt Drway, Jt Farm
+160,41.275424,-73.580965,Old Post Rd/Waccabuc River Ln/Pvt Drway Jt Farm
 445,41.064186,-73.850904,White Plains Rd/Crescent Dr
 445,40.934356,-73.807625,Cross County Pkwy
 579,40.947711,-73.849234,/Central Park Ave
@@ -8438,7 +8438,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 552,40.916099,-73.839326,North St/N 6th Ave
 579,40.894053,-73.775716,Beacon St/Davenport Ave
 526,40.916739,-73.791912,Lathers Park/Lincoln Ave
-160,41.262748,-73.613134,Rte 35, Alternative Name Cross River Rd/Cross River Rd
+160,41.262748,-73.613134,Rte 35 Alternative Name Cross River Rd/Cross River Rd
 1020,40.959787,-73.810168,Carrie Pl/Lincoln Ave
 160,40.941706,-73.734733,Rushmore Ave
 390,40.894197,-73.801449,Country Club Ln
@@ -10049,7 +10049,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,40.944911,-73.764093,Vine Pl
 160,41.000203,-73.718245,104/Wendover Rd
 334,41.327910,-73.686126,/Somers Rd
-160,41.206743,-73.645886,Old Post Rd, Alternative State Hwy 22/Old Post Rd, Alternative State Hwy Rte 22
+160,41.206743,-73.645886,Old Post Rd Alternative State Hwy 22/Old Post Rd Alternative State Hwy Rte 22
 305,41.245663,-73.685187,Harris Rd/Saw Mill River Pkwy
 305,40.973487,-73.706920,Frederick Ct
 552,41.010891,-73.807508,S Central Ave/Central Park Ave
@@ -15443,7 +15443,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 788,41.035487,-73.778627,Tarrytown Rd/Robertson Ave
 1174,40.925728,-73.900816,Downing St/Riverdale Ave
 1746,40.926980,-73.840724,Bronx River Pkwy
-160,41.207136,-73.646330,Old Post Rd, Alternative State Hwy 22/Cantitoe St, Alternative State Hwy 22
+160,41.207136,-73.646330,Old Post Rd Alternative State Hwy 22/Cantitoe St Alternative State Hwy 22
 216,41.098798,-73.861527,N Broadway/Bellwood Ave
 160,41.258690,-73.745314,Moseman Ave/Wood St
 276,41.023087,-73.727466,/Bryant Ave
@@ -15700,7 +15700,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,40.904081,-73.829711,Jackson St
 216,40.972414,-73.818038,Robertson Pl/Crestwood Ave
 160,41.021240,-73.664222,Priscilla Ln
-362,41.202823,-73.642622,Village Green, Alternative Main St/
+362,41.202823,-73.642622,Village Green Alternative Main St/
 305,41.038897,-73.833950,Orchard St/Sherman Ave
 185,41.336926,-73.725705,Keyrel Ln
 1020,40.923083,-73.860545,I- 87
@@ -18652,7 +18652,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,41.229548,-73.911372,/Briarcliff-Peekskill Pkwy
 1252,40.934396,-73.879089,/Saw Mill River Pkwy
 1589,40.935561,-73.757529,I- 95
-276,41.202651,-73.642203,Village Green, Alternative Main St/Pound Ridge Rd
+276,41.202651,-73.642203,Village Green Alternative Main St/Pound Ridge Rd
 216,41.110184,-73.788379,Lynwood Ave/Linda Ave
 216,41.325333,-73.869168,Red Mill Rd/Stonefield Ct
 658,40.910314,-73.888322,Leroy Ave/Allison Ave/Courter Ave
@@ -19622,7 +19622,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 865,40.968987,-73.816663,Leewood Dr
 185,41.325329,-73.654957,Spur St/1st St/First St
 276,41.108914,-73.789219,Warren Ave/Montieth Ave
-160,41.206670,-73.646374,Old Post Rd, Alternative State Hwy 22/Cantitoe St, Alternative State Hwy 22
+160,41.206670,-73.646374,Old Post Rd Alternative State Hwy 22/Cantitoe St Alternative State Hwy 22
 185,41.086835,-73.847915,Country House Rd/Wilson Park Dr/County House Rd
 185,41.284447,-73.550877,Hoyt St
 3115,40.941898,-73.835280,Station Plz/Pondfield Rd W
@@ -20375,7 +20375,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 499,40.962035,-73.736270,8
 305,41.041632,-73.815593,Sprain Brook Pkwy
 160,41.098428,-73.760694,Clover Rd/Beech Rd
-160,41.206841,-73.645713,Old Post Rd, Alternative State Hwy 22/Old Post Rd, Alternative Rte 22
+160,41.206841,-73.645713,Old Post Rd Alternative State Hwy 22/Old Post Rd Alternative Rte 22
 865,40.968483,-73.718411,Briga Cir
 185,40.990989,-73.661584,Hilltop Dr
 445,40.949944,-73.883309,Shonnard Pl/Sommerville Pl
@@ -22417,7 +22417,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,40.992446,-73.880794,Washington Ave/Aqueduct Ln
 526,40.962083,-73.736252,8/I- 95
 160,41.136429,-73.764765,Bear Ridge Rd/Munson Pond Ln
-4067,41.033515,-73.770515,Martin Luthur King, Jr Blvd/Grove St
+4067,41.033515,-73.770515,Martin Luthur King Jr Blvd/Grove St
 1850,40.932755,-73.896792,New Main St/Ann St
 185,41.201139,-73.731544,Maplewood Dr/Lexington Ave
 418,40.986873,-73.872018,/Farragut Ave
@@ -26671,7 +26671,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 390,41.326519,-73.657985,Mid Way
 390,41.294362,-73.798724,Old Crompond Rd/Waverly Rd
 160,41.362279,-73.572011,Vail Blvd/Orchard Rd
-4932,41.033063,-73.770160,Martin Luthur King, Jr Blvd/Grove St/Hamilton Ave
+4932,41.033063,-73.770160,Martin Luthur King Jr Blvd/Grove St/Hamilton Ave
 334,41.124926,-73.700321,Bedford Rd
 160,41.162136,-73.836187,Donald Ln
 246,41.175796,-73.853388,Hawkes Close/Hawkes Ave

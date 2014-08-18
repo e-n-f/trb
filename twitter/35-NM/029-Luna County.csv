@@ -86,7 +86,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,32.266624,-107.742610,E Rose St/E Maple St
 185,32.267720,-107.740780,S Myrtle St
 160,32.246980,-107.764470,/W Pear St
-334,32.239195,-107.733227,Water Hazard/Alley, Not A St
+334,32.239195,-107.733227,Water Hazard/Alley Not A St
 160,32.274611,-107.546689,I- 10
 160,32.251983,-107.767440,S Lime St
 472,32.267450,-107.759830,S Copper St/W Spruce St
@@ -172,7 +172,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 160,32.273529,-107.734447,I- 10
 276,32.254040,-107.741720,E Florida St/S Allen St
 160,32.278870,-107.758830,E 7th St/N Silver Ave
-216,32.238060,-107.733220,Alley, Not A St
+216,32.238060,-107.733220,Alley Not A St
 160,32.280459,-107.572100,/Lewis Flats Rd NE
 160,31.832650,-107.638760,Higday St/Main St
 276,32.249010,-107.763800,Plum St/S Lead St
@@ -436,7 +436,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 185,32.249020,-107.751480,Columbus Rd/E Plum St
 658,32.265250,-107.751530,/San Carlos St
 160,32.264339,-107.770569,W Maple St
-246,32.239730,-107.733230,Dona Ana Rd SE/Alley, Not A St
+246,32.239730,-107.733230,Dona Ana Rd SE/Alley Not A St
 216,32.275190,-107.766140,/N Nickel St
 185,32.252190,-107.738660,E Holly St/S Tennyson Dr
 185,32.268810,-107.691945,/State Hwy 549 SE

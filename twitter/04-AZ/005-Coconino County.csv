@@ -695,7 +695,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 276,36.893846,-111.468874,Robert Ln
 1020,35.197412,-111.653517,W Phoenix Ave
 5256,35.187177,-111.655825,/Blome Dr S
-160,35.127678,-111.689192,Spine Ridge Dr,
+160,35.127678,-111.689192,Spine Ridge Dr
 160,35.093666,-111.693142,Wakas Trl
 246,35.311324,-111.542280,Firehouse Ln
 160,35.117533,-111.099813,I- 40
@@ -1167,7 +1167,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,35.197306,-111.633156,N Clearview Dr/N Canyon View Dr
 160,35.219427,-111.613552,N 4th St
 276,35.190755,-111.638602,E Old Canyon Ct
-185,35.129431,-111.690074,Spine Ridge Dr,
+185,35.129431,-111.690074,Spine Ridge Dr
 160,36.051062,-112.115471,Fir and Pine Loop
 276,35.202708,-111.620534,E Johnson Ave
 185,35.201799,-111.655936,N Mogollon St/W Birch Ave
@@ -4051,7 +4051,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 684,35.192512,-111.644564,E Butler Ave
 1097,35.188442,-111.647037,S O'Leary St/W Hoskins Ave
 216,35.204969,-111.599556,E Bottlebrush Dr/Fox Lair Dr
-185,35.129290,-111.689771,Spine Ridge Dr,/Seneca St
+185,35.129290,-111.689771,Spine Ridge Dr/Seneca St
 160,35.256369,-111.530449,/Fran Dr
 1693,35.175989,-111.667876,S Woodlands Village Blvd
 160,34.471652,-111.449239,/Zane Grey Hwy
@@ -6206,7 +6206,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 246,35.219957,-111.591644,E Jacamar Dr
 2088,35.168218,-111.663717,E Beverly Ave
 185,36.146402,-111.145452,/Navajo Trl
-160,35.129552,-111.690332,Spine Ridge Dr,/N Hwy 89A
+160,35.129552,-111.690332,Spine Ridge Dr/N Hwy 89A
 334,36.905417,-111.464622,Bonita St/Bonita Loop
 246,34.876879,-111.752630,Lomacasi Ln/Forest Glen Ln
 185,36.977074,-112.528544,US Hwy 89 Alt
@@ -6541,7 +6541,7 @@ Estimated daily crossings,Latitude,Longitude,Name
 216,35.247983,-112.199345,W Bill Williams Ave/W Railroad Ave/US Hwy 66
 684,35.215351,-111.596227,I- 40 Bus
 216,35.258193,-112.184896,Boyd St/E Rodeo Rd
-160,35.127490,-111.689253,Spine Ridge Dr,/Pine del Dr
+160,35.127490,-111.689253,Spine Ridge Dr/Pine del Dr
 160,34.940687,-111.630444,Cactus Wren/Pinewood Blvd
 160,36.168970,-111.089043,/Hwy 160
 185,36.950825,-112.526393,/Hortt St/US Hwy 89 Alt
